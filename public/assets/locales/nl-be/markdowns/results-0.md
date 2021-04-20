@@ -1,4 +1,4 @@
-`Deze pagina is voor het laatst aangepast op 08.april.2021 19:00.`
+`Deze pagina is voor het laatst aangepast op 16.apr.2021 19:00.`
 <br />
 
 Op deze pagina vindt u de actuele resultaten van Infectieradar.
@@ -12,12 +12,12 @@ Op 16 april 2021 hadden we 389 deelnemers. 50.4% van de deelnemers is vrouw, en 
 
 ### Leeftijdsverdeling
 
-<img src="belgium/images/agedistribution.png" width="100%">
+<img src="assets/images/agedistribution.png" width="100%">
 
 
 ### Geografische verdeling
 
-<img src="belgium/images/ParticipationMap.png" width="100%">
+<img src="assets/images/ParticipationMap.png" width="100%">
 
 
 <br />
@@ -30,4 +30,4 @@ Op 17 april 2021 hadden we 858 ingevulde wekelijkse symptomen vragenlijsten van 
 ### Gerapporteerde symptomen
 In de figuur hieronder geven we procentueel aan hoe vaak een bepaald symptoom is gerapporteerd in de vragenlijsten waarbij minstens één symptoom werd doorgegeven.
 
-<img src="belgium/images/ReportedSymptoms_NL.png" width="100%">
+<img src="assets/images/ReportedSymptoms_NL.png" width="100%">

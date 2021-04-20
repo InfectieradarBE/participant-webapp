@@ -1,4 +1,4 @@
-`This page has been last updated at 07.apr.2021 19:00.`
+`This page has been last updated at 16.apr.2021 19:00.`
 <br />
 
 On this page you will be able to see the latest results from the data collected by Infectieradar.be.
@@ -12,12 +12,12 @@ On April 7, 2021 we had 389 participants. 50.4% of the participants are female, 
 
 ### Age distribution
 
-<img src="belgium/images/agedistribution.png" width="100%">
+<img src="assets/images/agedistribution.png" width="100%">
 
 
 ### Geographical distribution
 
-<img src="belgium/images/ParticipationMap.png" width="100%">
+<img src="assets/images/ParticipationMap.png" width="100%">
 
 
 <br />
@@ -31,4 +31,4 @@ On April 16, 2021 we had 958 completed weekly symptom questionnaires from 365 pa
 
 In the figure below we present how often (in percentages) a symptom was reported in questionnaires where at least one symptom was reported.
 
-<img src="belgium/images/ReportedSymptoms_NL.png" width="100%">
+<img src="assets/images/ReportedSymptoms_NL.png" width="100%">

@@ -43,13 +43,13 @@ export const footerConfig: FooterConfig = {
       items: [
         {
           type: "language",
-          itemKey: "en",
-          value: "en"
-        },
-        /* {
-          type: "language",
           itemKey: "nl-be",
           value: "nl-be"
+        },
+        {
+          type: "language",
+          itemKey: "en",
+          value: "en"
         },
         {
           type: "language",
@@ -58,10 +58,9 @@ export const footerConfig: FooterConfig = {
         },
         {
           type: "language",
-          type: "language",
           itemKey: "de-be",
           value: "de-be"
-        } */
+        }
       ]
     }
   ]

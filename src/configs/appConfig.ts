@@ -3,10 +3,10 @@ import { AppConfig } from 'case-web-app-core/build/types/appConfig';
 export const appConfig: AppConfig = {
   instanceId: 'belgium',
   languages: [
+    { code: 'nl-be', itemKey: 'nl-be' },
     { code: 'en', itemKey: 'en' },
-    /* { code: 'nl-be', itemKey: 'nl-be' },
     { code: 'fr-be', itemKey: 'fr-be' },
-    { code: 'de-be', itemKey: 'de-be' }, */
+    { code: 'de-be', itemKey: 'de-be' },
   ],
   avatars: [
     { avatarId: 'default', url: '/avatars/genderneutraal.svg' },

@@ -7,7 +7,7 @@ On this page you will be able to see the latest results from the data collected 
 
 ## Background Information
 
-On April 7, 2021 we had 389 participants. 50.4% of the participants are female, and 49.6% male. The majority of the participants (84.1%) reported having no previous Covid-19 episode. 4.2% of the participants had a positive Covid-19 test in the past. 11.8% of the participants think they had a previous Covid-19 episode.
+On April 26, 2021 we had 435 participants. 50.1% of the participants are female, and 49.9% male. The majority of the participants (84.1%) reported having no previous Covid-19 episode. 3.9% of the participants had a positive Covid-19 test in the past. 11.9% of the participants think they had a previous Covid-19 episode.
 <br />
 
 ### Age distribution
@@ -25,7 +25,7 @@ On April 7, 2021 we had 389 participants. 50.4% of the participants are female, 
 
 ## Weekly Symptoms
 
-On April 16, 2021 we had 958 completed weekly symptom questionnaires from 365 participants. In 72,9% of the symptom questionnaires it was reported that there were *no symptoms*.
+On April 26, 2021 we had 1427 completed weekly symptom questionnaires from 411 participants. In 74,1% of the symptom questionnaires it was reported that there were *no symptoms*.
 
 ### Reported symptoms
 

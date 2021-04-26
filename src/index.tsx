@@ -25,7 +25,8 @@ import 'bootstrap/dist/js/bootstrap.bundle';
 import App from './App';
 
 const localeURL = process.env.REACT_APP_CONTENT_URL + '/locales';
-initI18n('nl-be', 'nl-be', localeURL);
+const defaultLanguage = process.env.REACT_APP_DEFAULT_LANGUAGE ?? process.env.REACT_APP_FALLBACK_LANGUAGE ?? 'en';
+initI18n(defaultLanguage, defaultLanguage, localeURL);
 
 ReactDOM.render(
   <React.StrictMode>

@@ -1,1 +1,0 @@
-Wir möchten Sie mit Nachdruck darauf hinweisen, dass die Fragen und die Verwendung der Website für Sie keinem medizinischen Zweck dienen. Wenn Sie aufgrund Ihrer Gesundheit Sorgen haben, suchen Sie bitte immer die Hilfe üblicher medizinischer Stellen auf.

@@ -1,4 +1,4 @@
-`Deze pagina is voor het laatst aangepast op 16.apr.2021 19:00.`
+`Deze pagina is voor het laatst aangepast op 26.apr.2021 14:00.`
 <br />
 
 Op deze pagina vindt u de actuele resultaten van Infectieradar.

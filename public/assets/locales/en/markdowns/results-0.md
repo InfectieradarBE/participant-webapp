@@ -1,4 +1,4 @@
-`This page has been last updated at 16.apr.2021 19:00.`
+`This page has been last updated at 26.apr.2021 14:00.`
 <br />
 
 On this page you will be able to see the latest results from the data collected by Infectieradar.be.

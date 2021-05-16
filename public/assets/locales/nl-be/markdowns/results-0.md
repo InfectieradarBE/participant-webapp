@@ -1,4 +1,4 @@
-`Deze pagina is voor het laatst aangepast op 26.apr.2021 14:00.`
+`Deze pagina is voor het laatst aangepast op 16.mei.2021 14:00.`
 <br />
 
 Op deze pagina vindt u de actuele resultaten van Infectieradar.
@@ -7,7 +7,7 @@ Op deze pagina vindt u de actuele resultaten van Infectieradar.
 
 ## Achtergrond Informatie
 
-Op 26 april 2021 hadden we 435 deelnemers. 50.1% van de deelnemers is vrouw, en 49.9% is man. Een meerderheid van deelnemers (84.1%) rapporteerden dat ze nog geen Covid-19 hebben gehad. 3.9% van de deelnemers hebben in het verleden positief getest op Covid-19. 11.9% van de deelnemers hebben een sterk vermoeden dat ze Covid-19 hebben gehad.
+Op 16 mei 2021 hadden we 507 deelnemers. 52,5% van de deelnemers is vrouw, en 47.5% is man. Een meerderheid van deelnemers (83.4%) rapporteerden dat ze nog geen Covid-19 hebben gehad. 4.2% van de deelnemers hebben in het verleden positief getest op Covid-19. 12.5% van de deelnemers hebben een sterk vermoeden dat ze Covid-19 hebben gehad.
 <br />
 
 ### Leeftijdsverdeling
@@ -25,7 +25,7 @@ Op 26 april 2021 hadden we 435 deelnemers. 50.1% van de deelnemers is vrouw, en 
 
 ## Wekelijkse Symptomen
 
-Op 26 april 2021 hadden we 1427 ingevulde wekelijkse symptomen vragenlijsten van 411 deelnemers. In 74,1% van de vragenlijsten werd gerapporteerd dat er *geen symptomen* waren.
+Op 16 mei 2021 hadden we 2410 ingevulde wekelijkse symptomen vragenlijsten van 478 deelnemers. In 75.6% van de vragenlijsten werd gerapporteerd dat er *geen symptomen* waren.
 
 ### Gerapporteerde symptomen
 In de figuur hieronder geven we procentueel aan hoe vaak een bepaald symptoom is gerapporteerd in de vragenlijsten waarbij minstens één symptoom werd doorgegeven.

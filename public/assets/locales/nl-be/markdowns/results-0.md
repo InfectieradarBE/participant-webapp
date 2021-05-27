@@ -7,7 +7,7 @@ Op deze pagina vindt u de actuele resultaten van Infectieradar.
 
 ## Achtergrond Informatie
 
-Op 26 mei 2021 hadden we 5556 deelnemers. 52,5% van de deelnemers is vrouw, en 47.5% is man. Een meerderheid van deelnemers (83.8%) rapporteerden dat ze nog geen Covid-19 hebben gehad. 4.3% van de deelnemers hebben in het verleden positief getest op Covid-19. 11.9% van de deelnemers hebben een sterk vermoeden dat ze Covid-19 hebben gehad.
+Op 26 mei 2021 hadden we 556 deelnemers. 52,5% van de deelnemers is vrouw, en 47.5% is man. Een meerderheid van deelnemers (83.8%) rapporteerden dat ze nog geen Covid-19 hebben gehad. 4.3% van de deelnemers hebben in het verleden positief getest op Covid-19. 11.9% van de deelnemers hebben een sterk vermoeden dat ze Covid-19 hebben gehad.
 <br />
 
 ### Leeftijdsverdeling

@@ -13,6 +13,12 @@
           "itemKey": "twitter",
           "value": "https://twitter.com/InfectieradarBe",
           "iconClass": "fab fa-twitter"
+        },
+        {
+          "type": "external",
+          "itemKey": "facebook",
+          "value": "https://www.facebook.com/InfectieradarBE",
+          "iconClass": "fab fa-facebook"
         }
       ]
     },

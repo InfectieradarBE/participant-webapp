@@ -1,4 +1,4 @@
-`This page has been last updated at 08.jun.2021 10:00.`
+`This page has been last updated at 14.jun.2021 10:00.`
 <br />
 
 On this page you will be able to see the latest results from the data collected by Infectieradar.be.
@@ -7,7 +7,7 @@ On this page you will be able to see the latest results from the data collected 
 
 ## Background Information
 
-On June 8, 2021 we had 622 participants. 53.7% of the participants are female, and 46.3% male. The majority of the participants (83.8%) reported having no previous Covid-19 episode. 4.8% of the participants had a positive Covid-19 test in the past. 11.4% of the participants think they had a previous Covid-19 episode.
+On June 14, 2021 we had 637 participants. 53.4% of the participants are female, and 46.6% male. The majority of the participants (83.8%) reported having no previous Covid-19 episode. 4.7% of the participants had a positive Covid-19 test in the past. 11.5% of the participants think they had a previous Covid-19 episode.
 <br />
 
 ### Age distribution
@@ -25,7 +25,7 @@ On June 8, 2021 we had 622 participants. 53.7% of the participants are female, a
 
 ## Weekly Symptoms
 
-On June 8, 2021 we had 3679 completed weekly symptom questionnaires from 545 participants. In 77.2% of the symptom questionnaires it was reported that there were *no symptoms*.
+On June 14, 2021 we had 3983 completed weekly symptom questionnaires from 587 participants. In 77.4% of the symptom questionnaires it was reported that there were *no symptoms*.
 
 ### Reported symptoms
 

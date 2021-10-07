@@ -1,4 +1,4 @@
-`This page has been last updated at 07.Sep.2021 16:00.`
+`This page has been last updated at 07.Oct.2021 16:00.`
 <br />
 
 On this page you will be able to see the latest results from the data collected by Infectieradar.be.
@@ -7,7 +7,7 @@ On this page you will be able to see the latest results from the data collected 
 
 ## Background Information
 
-On September 7, 2021 we had 785 participants. 52.7% of the participants are female, and 47.3% male. The majority of the participants (83.9%) reported having no previous Covid-19 episode. 5.1% of the participants had a positive Covid-19 test in the past. 10.9% of the participants think they had a previous Covid-19 episode.
+On October 7, 2021 we had 1016 participants. 56.9% of the participants are female, and 43.1% male. The majority of the participants (84.7%) reported having no previous Covid-19 episode. 5% of the participants had a positive Covid-19 test in the past. 10.3% of the participants think they had a previous Covid-19 episode.
 <br />
 
 ### Age distribution
@@ -25,7 +25,7 @@ On September 7, 2021 we had 785 participants. 52.7% of the participants are fema
 
 ## Weekly Symptoms
 
-On September 7, 2021 we had 8450 completed weekly symptom questionnaires from 729 participants. In 82% of the symptom questionnaires it was reported that there were *no symptoms*.
+On October 7, 2021 we had 10557 completed weekly symptom questionnaires from 960 participants. In 81.4% of the symptom questionnaires it was reported that there were *no symptoms*.
 
 ### Reported symptoms
 

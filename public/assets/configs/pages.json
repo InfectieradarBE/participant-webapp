@@ -166,8 +166,39 @@
                         "linkKey": "resultLink5",
                         "type": "external",
                         "value": "https://infectieradar.be/wp-content/uploads/2021/09/INFECTIERADAR-august.pdf"
+                      },
+                      {
+                        "linkKey": "resultLink6",
+                        "type": "external",
+                        "value": "https://infectieradar.be/wp-content/uploads/2021/10/INFECTIERADAR-september.pdf"
                       }
                     ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/news",
+      "pageKey": "news",
+      "rows": [
+        {
+          "key": "contentRow",
+          "className": "my-3 min-vh-60",
+          "columns": [
+            {
+              "key": "contentCol",
+              "className": "col-12 col-lg-8",
+              "items": [
+                {
+                  "itemKey": "news",
+                  "config": {
+                    "type": "markdown",
+                    "markdownUrl": "markdowns/news-0.md",
+                    "flavor": "chart-renderer"
                   }
                 }
               ]

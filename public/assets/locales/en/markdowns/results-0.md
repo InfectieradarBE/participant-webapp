@@ -1,34 +1,30 @@
-`This page has been last updated at 14.Oct.2021 13:00.`
+`This page has been last updated at 25.Oct.2021 10:00.`
 <br />
-
 On this page you will be able to see the latest results from the data collected by Infectieradar.be.
 <br />
 
+## COVID-19
+The graph below shows the incidence per 1000 participants with COVID-19-like symptoms over time. These are participants who reported at least one of the following symptoms in the past week: fever, cough, shortness of breath, loss of smell or taste. The line represents the 7-day average. 
+* 5.5% of the participants had a previous COVID-19 episode confirmed by test.
+* 10.7 % of the participants believe they had a previous COVID-19 infection.  
+* 90% of the participants is fully vaccinated. 
+
+<img src="assets/images/COVID19_EN.png" width="100%">
+
+## Weekly Symptoms
+In the past week we had 639 completed weekly symptom questionnaires. In 3.6% of the symptom questionnaires it was reported that there were *no symptoms*. The graph below shows the incidence per 1000 participants with flu like symptoms. 
+
+<img src="assets/images/ILI_EN.png" width="100%">  
 
 ## Background Information
-
-On October 14, 2021 we had 1018 participants. 56.8% of the participants are female, and 43.2% male. The majority of the participants (84.7%) reported having no previous Covid-19 episode. 5% of the participants had a positive Covid-19 test in the past. 10.4% of the participants think they had a previous Covid-19 episode.
+On October 25, 2021 we had 1100 participants. 57.4% of the participants are female, and 42.6% male. The map shows the total number of participants per 100.000 inhabitants per province. 
 <br />
-
-### Age distribution
-
-<img src="assets/images/agedistribution.png" width="100%">
-
 
 ### Geographical distribution
 
 <img src="assets/images/ParticipationMap.png" width="100%">
 
+### Age and gender distribution
 
+<img src="assets/images/pyramide_EN.png" width="100%">
 <br />
-
-
-## Weekly Symptoms
-
-On October 14, 2021 we had 11061 completed weekly symptom questionnaires from 962 participants. In 81.1% of the symptom questionnaires it was reported that there were *no symptoms*.
-
-### Reported symptoms
-
-In the figure below we present how often (in percentages) a symptom was reported in questionnaires where at least one symptom was reported.
-
-<img src="assets/images/ReportedSymptoms_EN.png" width="100%">

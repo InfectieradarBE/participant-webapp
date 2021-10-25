@@ -9,7 +9,7 @@ De onderstaande grafiek toont de incidentie per 1000 deelnemers met COVID-19-ach
 * 10,7% van de deelnemers hebben een sterk vermoeden dat ze COVID-19 hebben gehad.
 * 90% van de deelnemers is volledig gevaccineerd.
 
-<img src="assets/images/COVID19_NL.png" width="100%">
+<img src="assets/images/covid19_NL.png" width="100%">
 
 ## Wekelijkse Symptomen
 In de afgelopen week hadden we 639 ingevulde symptomen vragenlijsten. In 3.6% van de vragenlijsten werd gerapporteerd dat er *geen symptomen* waren. Onderstaande grafiek toont de incidentie per 1000 deelnemers met griepachtige symtomen. 
@@ -17,14 +17,14 @@ In de afgelopen week hadden we 639 ingevulde symptomen vragenlijsten. In 3.6% va
 <img src="assets/images/ILI_NL.png" width="100%">
 
 ## Achtergrond Informatie
-Op 25 oktober 2021 hadden we 1100 deelnemers. 57.4% van de deelnemers is vrouw, en 42.6% is man.
+Op 25 oktober 2021 hadden we 1100 deelnemers. 57.4% van de deelnemers is vrouw, en 42.6% is man. De kaart toont het totaal aantal deelnemers per 100.000 inwoners in iedere provincie.
 <br />
 
-### Geografische verdeling
+#### Geografische verdeling
 
 <img src="assets/images/ParticipationMap.png" width="100%">
 
-### Leeftijd- en geslachtsverdeling
+#### Leeftijd- en geslachtsverdeling
 
-<img src="assets/images/pyramide_NL.png" width="100%">
+<img src="assets/images/pyramide_NL.png" width="80%">
 <br />

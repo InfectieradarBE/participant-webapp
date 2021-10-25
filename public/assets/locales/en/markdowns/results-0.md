@@ -9,7 +9,7 @@ The graph below shows the incidence per 1000 participants with COVID-19-like sym
 * 10.7 % of the participants believe they had a previous COVID-19 infection.  
 * 90% of the participants is fully vaccinated. 
 
-<img src="assets/images/COVID19_EN.png" width="100%">
+<img src="assets/images/covid19_EN.png" width="100%">
 
 ## Weekly Symptoms
 In the past week we had 639 completed weekly symptom questionnaires. In 3.6% of the symptom questionnaires it was reported that there were *no symptoms*. The graph below shows the incidence per 1000 participants with flu like symptoms. 
@@ -20,11 +20,11 @@ In the past week we had 639 completed weekly symptom questionnaires. In 3.6% of 
 On October 25, 2021 we had 1100 participants. 57.4% of the participants are female, and 42.6% male. The map shows the total number of participants per 100.000 inhabitants per province. 
 <br />
 
-### Geographical distribution
+#### Geographical distribution
 
 <img src="assets/images/ParticipationMap.png" width="100%">
 
-### Age and gender distribution
+#### Age and gender distribution
 
-<img src="assets/images/pyramide_EN.png" width="100%">
+<img src="assets/images/pyramide_EN.png" width="80%">
 <br />

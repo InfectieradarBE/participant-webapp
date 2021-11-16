@@ -171,6 +171,11 @@
                         "linkKey": "resultLink6",
                         "type": "external",
                         "value": "https://infectieradar.be/wp-content/uploads/2021/10/INFECTIERADAR-september.pdf"
+                      },
+                      {
+                        "linkKey": "resultLink7",
+                        "type": "external",
+                        "value": "https://infectieradar.be/wp-content/uploads/2021/11/INFECTIERADAR-oktober.pdf"
                       }
                     ]
                   }

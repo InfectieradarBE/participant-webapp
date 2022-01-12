@@ -1,22 +1,22 @@
-`Deze pagina is voor het laatst aangepast op 23.dec.2021 09:00.`
+`Deze pagina is voor het laatst aangepast op 12.jan.2022 13:00.`
 <br />
 Op deze pagina vindt u de actuele resultaten van Infectieradar.
 <br />
 
 ## COVID-19
 De onderstaande grafiek toont de incidentie per 1000 deelnemers met COVID-19-achtige symptomen doorheen de tijd. Dit zijn deelnemers die de afgelopen week minimaal één van de volgende symptomen hebben gemeld: koorts, hoesten, kortademigheid, reuk- of smaakverlies. De lijn geeft het 7-daags gemiddelde weer.
-* 15.3% van de deelnemers hebben reeds positief getest op COVID-19.
+* 20.5% van de deelnemers hebben reeds positief getest op COVID-19.
 * 98.5% van de deelnemers is volledig gevaccineerd.
 
 <img src="assets/images/covid19_NL.png" width="100%">
 
 ## Wekelijkse Symptomen
-In de afgelopen week hadden we 761 ingevulde symptomen vragenlijsten. In 77.0% van de vragenlijsten werd gerapporteerd dat er *geen symptomen* waren. Onderstaande grafiek toont de incidentie per 1000 deelnemers met griepachtige symptomen. 
+In de afgelopen week hadden we 728 ingevulde symptomen vragenlijsten. In 81.2% van de vragenlijsten werd gerapporteerd dat er *geen symptomen* waren. Onderstaande grafiek toont de incidentie per 1000 deelnemers met griepachtige symptomen. 
 
 <img src="assets/images/ILI_NL.png" width="100%">
 
 ## Achtergrond Informatie
-Op 23 december 2021 hadden we 1381 deelnemers. 58.1% van de deelnemers is vrouw, en 41.7% is man. De kaart toont het totaal aantal deelnemers per 100.000 inwoners in iedere provincie.
+Op 12 januari 2022 hadden we 1384 deelnemers. 58.1% van de deelnemers is vrouw, en 41.7% is man. De kaart toont het totaal aantal deelnemers per 100.000 inwoners in iedere provincie.
 <br />
 
 #### Geografische verdeling

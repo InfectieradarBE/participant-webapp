@@ -5,6 +5,9 @@
 * TVLimburg, Oyen, T. (29/03/2021) [Link](https://www.tvl.be/nieuws/uhasselt-lanceert-infectieradar-om-verspreiding-virus-in-kaart-te-brengen-115987)
 
 ### Artikels in kranten en tijdschriften:
+*'Infectieradar brengt viruscirculatie in kaart'*
+* Planet Health, Jongstra, S. (12/2021) [Link](https://nl.planet-health.be/infectieziekten/infectieradar-brengt-viruscirculatie-in-kaart/)
+
 *'Coronacijfers schieten weer de hoogte in: door deze gaten in onze verdediging kon het virus nog glippen'*
 * Het Belang Van Limburg, Baumers, K. (25/10/2021) [Link](https://www.hbvl.be/cnt/dmf20211025_93246660?)
 

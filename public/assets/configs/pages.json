@@ -181,6 +181,11 @@
                         "linkKey": "resultLink8",
                         "type": "external",
                         "value": "https://infectieradar.be/wp-content/uploads/2021/12/INFECTIERADAR-november.pdf"
+                      },
+                      {
+                        "linkKey": "resultLink9",
+                        "type": "external",
+                        "value": "https://infectieradar.be/wp-content/uploads/2022/01/INFECTIERADAR-december.pdf"
                       }
                     ]
                   }

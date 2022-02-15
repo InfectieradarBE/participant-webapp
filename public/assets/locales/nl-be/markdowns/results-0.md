@@ -1,4 +1,4 @@
-`Deze pagina is voor het laatst aangepast op 10.feb.2022 16:30.`
+`Deze pagina is voor het laatst aangepast op 15.feb.2022 14:30.`
 <br />
 Op deze pagina vindt u de actuele resultaten van Infectieradar.
 <br />
@@ -11,12 +11,12 @@ De onderstaande grafiek toont de incidentie per 1000 deelnemers met COVID-19-ach
 <img src="assets/images/covid19_NL.png" width="100%">
 
 ## Wekelijkse Symptomen
-In de afgelopen week hadden we 858 ingevulde symptomen vragenlijsten. In 77.8% van de vragenlijsten werd gerapporteerd dat er *geen symptomen* waren. Onderstaande grafiek toont de incidentie per 1000 deelnemers met griepachtige symptomen. 
+In de afgelopen week hadden we 881 ingevulde symptomen vragenlijsten. In 80.8% van de vragenlijsten werd gerapporteerd dat er *geen symptomen* waren. Onderstaande grafiek toont de incidentie per 1000 deelnemers met griepachtige symptomen. 
 
 <img src="assets/images/ILI_NL.png" width="100%">
 
 ## Achtergrond Informatie
-Op 10 februari 2022 hadden we 1492 deelnemers. 58.6% van de deelnemers is vrouw, en 41.2% is man. De kaart toont het totaal aantal deelnemers per 100.000 inwoners in iedere provincie.
+Op 15 februari 2022 hadden we 1494 deelnemers. 58.7% van de deelnemers is vrouw, en 41.2% is man. De kaart toont het totaal aantal deelnemers per 100.000 inwoners in iedere provincie.
 <br />
 
 #### Geografische verdeling

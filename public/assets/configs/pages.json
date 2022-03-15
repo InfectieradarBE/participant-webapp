@@ -186,6 +186,16 @@
                         "linkKey": "resultLink9",
                         "type": "external",
                         "value": "https://infectieradar.be/wp-content/uploads/2022/01/INFECTIERADAR-december.pdf"
+                      },
+                      {
+                        "linkKey": "resultLink10",
+                        "type": "external",
+                        "value": "https://infectieradar.be/wp-content/uploads/2022/03/INFECTIERADAR-januari.pdf"
+                      },
+                      {
+                        "linkKey": "resultLink11",
+                        "type": "external",
+                        "value": "https://infectieradar.be/wp-content/uploads/2022/03/INFECTIERADAR-februari.pdf"
                       }
                     ]
                   }

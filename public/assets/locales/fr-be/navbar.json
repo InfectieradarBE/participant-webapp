@@ -13,5 +13,7 @@
     "verified": "Compte non vérifié"
   },
   "exitSurveyMode": "Quitter",
-  "selectedProfilePrefixInSurveyMode": "Répondre aux questions pour :"
+  "selectedProfilePrefixInSurveyMode": "Répondre aux questions pour :",
+  "toggleBtn": "Menu",
+  "toggleBtnAriaLabel": "Menu"
 }

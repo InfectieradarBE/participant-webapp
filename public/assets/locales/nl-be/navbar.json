@@ -13,5 +13,7 @@
     "verified": "Account niet geverifieerd"
   },
   "exitSurveyMode": "Verlaten",
-  "selectedProfilePrefixInSurveyMode": "Beantwoorden voor :"
+  "selectedProfilePrefixInSurveyMode": "Beantwoorden voor :",
+  "toggleBtn": "Menu",
+  "toggleBtnAriaLabel": "Menu"
 }

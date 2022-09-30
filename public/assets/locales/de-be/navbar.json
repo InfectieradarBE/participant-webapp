@@ -13,5 +13,7 @@
     "verified": "Account nicht verifiziert"
   },
   "exitSurveyMode": "Verlassen",
-  "selectedProfilePrefixInSurveyMode": "Fragen beantworten für:"
+  "selectedProfilePrefixInSurveyMode": "Fragen beantworten für:",
+  "toggleBtn": "Menu",
+  "toggleBtnAriaLabel": "Menu"
 }

@@ -44,6 +44,7 @@
     "loginLink": "Sie haben schon einen Account? Melden Sie sich hier an!",
     "reCaptchaLinks": "Diese Website verwendet reCAPTCHA und die <1>Datenschutz-Erklärung</1> und <3>Bedingungen</3> gelten.",
     "errors": {
+      "emailRules": "Die von Ihnen eingegebene E-Mail-Adresse ist ungültig.",
       "passwordRules": "Ihr Passwort muss mindestens 8 Zeichen aufweisen und 3 der folgenden 4 Elemente enthalten: Kleinbuchstaben, Großbuchstaben, Zahl, Interpunktions-/Satzzeichen.",
       "passwordMatch": "Die Passwörter sind nicht dieselben!",
       "invalidEmail": "Ihre E-Mail-Adresse scheint nicht korrekt zu sein.",
@@ -65,10 +66,13 @@
     "title": "Willkommen!",
     "successMsg": "Sie sind beinahe für Infectieradar.be angemeldet! \n\n Bitte bestätigen Sie zuerst noch Ihre E-Mail-Adresse durch Anklicken des Links in der Bestätigungsmail, die wir Ihnen zusandten! \n Sie können die E-Mail nicht finden? Dann kontrollieren Sie zuerst Ihr Spam-Verzeichnis. Sie können im Folgenden eine neue E-Mail anfordern.",
     "emailSentMsg": "E-Mail wurde versandt!",
+    "msgForVerifiedAccount": "Wenn Sie Ihr Konto gerade überprüft haben, können Sie die Schaltfläche unten verwenden, um diese Seite erneut zu laden.",
+    "reloadUser": "Überprüfen Sie die Verifizierung",
     "resendVerificationEmailBtn": "Versenden Sie erneut eine Bestätigungsmail",
     "wrongEmailBtn": "Sie haben eine verkehrte E-Mail-Adresse benutzt? Ändern Sie diese bitte hier!",
     "errors": {
-      "unknown": "Es läuft etwas verkehrt."
+      "unknown": "Es läuft etwas verkehrt.",
+      "verifyEmailFirst": "Sie müssen Ihre E-Mail-Adresse zuerst verifizieren, indem Sie den Link in der Registrierungs-E-Mail anklicken. Können Sie die E-Mail nicht finden, verwenden Sie die Schaltfläche, um eine neue E-Mail zu versenden."
     }
   },
   "passwordForgotten": {

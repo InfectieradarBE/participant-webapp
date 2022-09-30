@@ -10,5 +10,17 @@
   "notValidQuestion": "Choisissez une réponse valable pour toutes les questions",
   "backBtn": "Précédent",
   "nextBtn": "Suivant",
-  "submitBtn": "Envoyer"
-}
+  "submitBtn": "Envoyer",
+  "surveyLoadingError": {
+    "content": "Malheureusement, un problème est survenu lors du chargement du questionnaire. Veuillez réessayer, ou contacter notre service technique si le problème persiste.",
+    "btn": "Veuillez réessayer"
+  },
+  "surveySubmissionError": {
+    "content": "Malheureusement, un problème est survenu lors de la soumission du questionnaire. Veuillez réessayer, ou contacter notre service technique si le problème persiste.",
+    "btn": "Veuillez réessayer"
+  },
+  "submitSuccessDialog": {
+    "title": "Info",
+    "content": "Votre questionnaire a été correctement envoyé.",
+    "btn": "Poursuivre"
+  }}

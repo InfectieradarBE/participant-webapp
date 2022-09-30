@@ -10,5 +10,18 @@
   "notValidQuestion": "Wählen Sie eine gültige Antwort für alle Fragen",
   "backBtn": "Zurück",
   "nextBtn": "Folgende",
-  "submitBtn": "Versenden"
+  "submitBtn": "Versenden",
+  "surveyLoadingError": {
+    "content": "Unglücklicherweise lief beim Laden des Fragebogens etwas falsch. Versuchen Sie es bitte noch einmal oder kontaktieren Sie unseren Support, wenn das Problem bestehen bleibt.",
+    "btn": "Erneut versuchen"
+  },
+  "surveySubmissionError": {
+    "content": "Unglücklicherweise lief beim Absenden des Fragebogens etwas falsch. Versuchen Sie es bitte noch einmal oder kontaktieren Sie unseren Support, wenn das Problem bestehen bleibt.",
+    "btn": "Erneut versuchen"
+  },
+  "submitSuccessDialog": {
+    "title": "Info",
+    "content": "Ihr Fragebogen wurde erfolgreich eingereicht.",
+    "btn": "Weiter"
+  }
 }

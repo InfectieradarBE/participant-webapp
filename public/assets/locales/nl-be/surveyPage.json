@@ -10,5 +10,18 @@
   "notValidQuestion": "Selecteer een geldig antwoord",
   "backBtn": "Terug",
   "nextBtn": "Volgende",
-  "submitBtn": "Verzenden"
+  "submitBtn": "Verzenden",
+  "surveyLoadingError": {
+    "content": "Er ging helaas iets mis bij het laden van de vragenlijst. Probeer het opnieuw of neem contact op met onze support als het probleem aanhoudt.",
+    "btn": "Probeer opnieuw"
+  },
+  "surveySubmissionError": {
+    "content": "Er ging helaas iets mis bij het verzenden van de vragenlijst. Probeer het opnieuw of neem contact op met onze support als het probleem aanhoudt.",
+    "btn": "Probeer opnieuw"
+  },
+  "submitSuccessDialog": {
+    "title": "Info",
+    "content": "Jouw vragenlijst is succesvol verzonden.",
+    "btn": "Doorgaan"
+  }
 }

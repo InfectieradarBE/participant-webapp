@@ -30,7 +30,7 @@ const App: React.FC = () => {
     if (!i18n.language) {
       i18n.changeLanguage(`${process.env.REACT_APP_DEFAULT_LANGUAGE}`);
     }
-  }, [i18n.language]);
+  }, [i18n, i18n.language]);
 
   return (
     <React.Fragment>

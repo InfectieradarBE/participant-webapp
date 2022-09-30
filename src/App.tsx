@@ -8,6 +8,7 @@ import { HeaderConfig } from 'case-web-app-core/build/types/headerConfig';
 import { NavbarConfig } from 'case-web-app-core/build/types/navbarConfig';
 import { PagesConfig } from 'case-web-app-core/build/types/pagesConfig';
 
+import { fr, de, nl } from 'date-fns/locale';
 
 const App: React.FC = () => {
   const [appConfig, setAppConfig] = useState<AppConfig>();
@@ -16,6 +17,12 @@ const App: React.FC = () => {
   const [pagesConfig, setPagesConfig] = useState<PagesConfig>();
   const [footerConfig, setFooterConfig] = useState<FooterConfig>();
   const { i18n } = useTranslation();
+
+  const dateLocales = [
+    { code: 'fr-be', locale: fr, format: 'dd/MM/yyyy' },
+    { code: 'de-be', locale: de, format: 'dd/MM/yyyy' },
+    { code: 'nl-be', locale: nl, format: 'dd/MM/yyyy' },
+  ];
 
   useEffect(() => {
     if (!i18n.language) {
@@ -67,6 +74,7 @@ const App: React.FC = () => {
         navbarConfig={navbarConfig}
         pagesConfig={pagesConfig}
         footerConfig={footerConfig}
+        dateLocales={dateLocales}
       />
     </React.Fragment>
   );

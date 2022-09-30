@@ -14,7 +14,7 @@
       "title": "Profils",
       "info": "Modifiez votre propre profil, ou ajoutez un profil de vos enfants âgés au maximum de 17 ans, et ce, en votre qualité de parent ou de représentant légal.",
       "btn": "{{count}} profil",
-      "btn_plural": "{{count}} profils"
+      "btn_other": "{{count}} profils"
     }
   },
   "communication": {

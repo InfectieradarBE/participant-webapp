@@ -13,8 +13,8 @@
     "profiles": {
       "title": "Profiles",
       "info": "Edit your own profile or, as a parent or legal representative, add the profile of your child aged up to 17 years.",
-      "btn": "{{count}} profiles",
-      "btn_plural": "{{count}} profiles"
+      "btn": "{{count}} profile",
+      "btn_other": "{{count}} profiles"
     }
   },
   "communication": {

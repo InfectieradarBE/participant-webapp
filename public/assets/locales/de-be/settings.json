@@ -14,7 +14,7 @@
       "title": "Profile",
       "info": "Bearbeiten Sie Ihr eigenes Profil oder fügen Sie als Elternteil oder gesetzlicher Vertreter ein Profil Ihrer Kinder im Alter von bis zu 17 Jahren hinzu.",
       "btn": "{{count}} Profil",
-      "btn_plural": "{{count}} Profile"
+      "btn_other": "{{count}} Profile"
     }
   },
   "communication": {

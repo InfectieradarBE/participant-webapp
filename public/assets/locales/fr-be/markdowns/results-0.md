@@ -1,22 +1,21 @@
-`Dernière modification de cette page le 28.Oct.2022 16:00.`
+`Dernière modification de cette page le 09.Nov.2022 10:00.`
 <br />
 On this page you will be able to see the latest results from the data collected by Infectieradar.be.
 <br />
 
 ## COVID-19
 The graph below shows the incidence per 1000 participants with COVID-19-like symptoms over time. These are participants who reported at least one of the following symptoms in the past week: fever, cough, shortness of breath, loss of smell or taste. The line represents the 7-day average. 
-* 25.5% of the participants had a previous COVID-19 episode confirmed by test.
-* 98.5% of the participants is fully vaccinated. 
+* 98.5% of the participants is fully vaccinated for COVID-19 
 
 <img src="assets/images/covid19_EN.png" width="100%">
 
 ## Weekly Symptoms
-In the past week we had 755 completed weekly symptom questionnaires. In 82.1% of the symptom questionnaires it was reported that there were *no symptoms*. The graph below shows the incidence per 1000 participants with flu like symptoms. 
+In the past week we had 713 completed weekly symptom questionnaires. In 85.8% of the symptom questionnaires it was reported that there were *no symptoms*. The graph below shows the incidence per 1000 participants with flu like symptoms. 
 
 <img src="assets/images/ILI_EN.png" width="100%">  
 
 ## Background Information
-On October 28, 2022 we had 1817 participants. 59.4% of the participants are female, and 40.3% male. The map shows the total number of participants per 100.000 inhabitants per province. 
+On November 9, 2022 we had 1817 participants. 59.4% of the participants are female, and 40.3% male. The map shows the total number of participants per 100.000 inhabitants per province. 
 <br />
 
 #### Geographical distribution

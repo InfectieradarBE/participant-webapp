@@ -1,4 +1,4 @@
-`Dernière modification de cette page le 17.Jan.2023 20:30.`
+`Dernière modification de cette page le 24.Jan.2023 20:30.`
 <br />
 On this page you will be able to see the latest results from the data collected by Infectieradar.be.
 <br />
@@ -10,12 +10,12 @@ The graph below shows the incidence per 1000 participants with COVID-19-like sym
 <img src="assets/images/covid19_EN.png" width="100%">
 
 ## Weekly Symptoms
-In the past week we had 718 completed weekly symptom questionnaires. In 81.1% of the symptom questionnaires it was reported that there were *no symptoms*. The graph below shows the incidence per 1000 participants with flu like symptoms. 
+In the past week we had 705 completed weekly symptom questionnaires. In 84.1% of the symptom questionnaires it was reported that there were *no symptoms*. The graph below shows the incidence per 1000 participants with flu like symptoms. 
 
 <img src="assets/images/ILI_EN.png" width="100%">  
 
 ## Background Information
-On January 17, 2023 we had 1831 participants. 59.3% of the participants are female, and 40.5% male. The map shows the total number of participants per 100.000 inhabitants per province. 
+On January 24, 2023 we had 1831 participants. 59.3% of the participants are female, and 40.5% male. The map shows the total number of participants per 100.000 inhabitants per province. 
 <br />
 
 #### Geographical distribution

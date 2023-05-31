@@ -1,4 +1,4 @@
-`Dernière modification de cette page le 24.Mai.2023 10:00.`
+`Dernière modification de cette page le 31.Mai.2023 12:30.`
 <br />
 On this page you will be able to see the latest results from the data collected by Infectieradar.be.
 <br />

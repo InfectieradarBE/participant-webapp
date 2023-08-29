@@ -37,3 +37,7 @@
 * Het Belang Van Limburg, Deferme, S. (29/03/2021) [Link](https://www.hbvl.be/cnt/dmf20210329_93158218)
 <img src="assets/images/NH_HBVL.png" width="60%">
 <br /> 
+
+### Scientific articles: 
+*'Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy: a cross-sectional survey and modelling study'*
+* The Lancet Regional Health - Europe, de Meijere et al. (2023) [Link](https://www.sciencedirect.com/science/article/pii/S2666776223000327)

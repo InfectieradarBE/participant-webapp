@@ -10,7 +10,7 @@ Deelname aan het onderzoek is vrijwillig. Wij willen u er met klem op wijzen dat
 
 ### Studie in een oogopslag
 **Waarom Infectieradar.be?**
-We weten dat veel mensen met een besmetting met het nieuwe SARS-CoV-2 virus (“coronavirus” in de volksmond) milde of weinig gezondheidsklachten hebben en niet naar de huisarts gaan. Ook wordt niet iedereen getest. Dit maakt het moeilijk om na te gaan hoe het nieuwe coronavirus zich verspreidt in België. Het is belangrijk om gezondheidsklachten op te volgen die niet bij de huisarts worden gemeld. 
+We weten dat veel mensen na besmetting met een virus milde of weinig gezondheidsklachten hebben en niet naar de huisarts gaan. Ook wordt niet iedereen getest. Dit maakt het moeilijk om na te gaan hoe de verspreiding van een virus zich ontwikkelt in België. Het is belangrijk om gezondheidsklachten op te volgen die niet bij de huisarts worden gemeld. 
 
 **Wie kan deelnemen?**
 Iedereen die in België woont en 18 jaar of ouder is, kan op vrijwillige basis deelnemen aan de studie. Om ook informatie te bekomen over de verspreiding van infectieziekten bij kinderen en jongeren, kunnen ouders of voogden van een minderjarig kind de vragenlijsten ook voor hun kinderen invullen. Dit is niet verplicht maar het helpt het onderzoek wel vooruit.

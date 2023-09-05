@@ -145,57 +145,7 @@
                       {
                         "linkKey": "resultLink1",
                         "type": "external",
-                        "value": "https://infectieradar.be/wp-content/uploads/2021/05/INFECTIERADAR-april.pdf"
-                      },
-                      {
-                        "linkKey": "resultLink2",
-                        "type": "external",
-                        "value": "https://infectieradar.be/wp-content/uploads/2021/06/INFECTIERADAR-may.pdf"
-                      },
-                      {
-                        "linkKey": "resultLink3",
-                        "type": "external",
-                        "value": "https://infectieradar.be/wp-content/uploads/2021/07/INFECTIERADAR-june.pdf"
-                      },
-                      {
-                        "linkKey": "resultLink4",
-                        "type": "external",
-                        "value": "https://infectieradar.be/wp-content/uploads/2021/08/INFECTIERADAR-july.pdf"
-                      },
-                      {
-                        "linkKey": "resultLink5",
-                        "type": "external",
-                        "value": "https://infectieradar.be/wp-content/uploads/2021/09/INFECTIERADAR-august.pdf"
-                      },
-                      {
-                        "linkKey": "resultLink6",
-                        "type": "external",
-                        "value": "https://infectieradar.be/wp-content/uploads/2021/10/INFECTIERADAR-september.pdf"
-                      },
-                      {
-                        "linkKey": "resultLink7",
-                        "type": "external",
-                        "value": "https://infectieradar.be/wp-content/uploads/2021/11/INFECTIERADAR-oktober.pdf"
-                      },
-                      {
-                        "linkKey": "resultLink8",
-                        "type": "external",
-                        "value": "https://infectieradar.be/wp-content/uploads/2021/12/INFECTIERADAR-november.pdf"
-                      },
-                      {
-                        "linkKey": "resultLink9",
-                        "type": "external",
-                        "value": "https://infectieradar.be/wp-content/uploads/2022/01/INFECTIERADAR-december.pdf"
-                      },
-                      {
-                        "linkKey": "resultLink10",
-                        "type": "external",
-                        "value": "https://infectieradar.be/wp-content/uploads/2022/03/INFECTIERADAR-januari.pdf"
-                      },
-                      {
-                        "linkKey": "resultLink11",
-                        "type": "external",
-                        "value": "https://infectieradar.be/wp-content/uploads/2022/03/INFECTIERADAR-februari.pdf"
+                        "value": "https://covid-19.sciensano.be/nl/covid-19-epidemiologische-situatie"
                       }
                     ]
                   }
@@ -558,22 +508,41 @@
                         "key": "uantwerpen",
                         "altKey": "uantwerpenLogo",
                         "url": "images/uantwerpen.png",
-                        "width": 260
-                      },
-                      {
-                        "key": "epipose",
-                        "altKey": "epiposeLogo",
-                        "url": "images/epipose.jpg",
-                        "className": "",
-                        "width": 260
+                        "width": 200
                       },
                       {
                         "key": "uhasselt",
                         "altKey": "hasseltLogo",
                         "url": "images/uhasselt.jpg",
-                        "width": 260
+                        "className": "",
+                        "width": 200
+                      },
+                      {
+                        "key": "sciensano",
+                        "altKey": "sciensanoLogo",
+                        "url": "images/sciensano.png",
+                        "width": 150
+                      },
+                      {
+                        "key": "simid",
+                        "altKey": "simidLogo",
+                        "url": "images/simid.png",
+                        "width": 150
+                      },
+                      {
+                        "key": "eu",
+                        "altKey": "euLogo",
+                        "url": "images/eu.png",
+                        "width": 150
                       }
                     ]
+                  }
+                },
+                {
+                  "itemKey": "funding_line",
+                  "config": {
+                    "type": "markdown",
+                    "markdownUrl": "/markdowns/funding_line.md"
                   }
                 }
               ]

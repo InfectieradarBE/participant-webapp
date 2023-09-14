@@ -31,7 +31,7 @@
   },
   "signup": {
     "title": "Sign up",
-    "info": "",
+    "info": "Sign up and help keep an eye on infectious diseases.",
     "emailInputLabel": "Email",
     "emailInputPlaceholder": "Enter Email",
     "passwordInputLabel": "Password",

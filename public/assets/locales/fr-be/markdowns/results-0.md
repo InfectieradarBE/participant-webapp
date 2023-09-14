@@ -1,28 +1,29 @@
-`Dernière modification de cette page le 06.Jui.2023 15:00.`
-<br />
-On this page you will be able to see the latest results from the data collected by Infectieradar.be.
-<br />
+`Dernière modification de cette page le 14.Sep.2023 09:00.`
 
-## COVID-19
-The graph below shows the incidence per 1000 participants with COVID-19-like symptoms over time. These are participants who reported at least one of the following symptoms in the past week: fever, cough, shortness of breath, loss of smell or taste. 
-* 98.5% of the participants is fully vaccinated for COVID-19 
+Les données que nous obtenons chaque semaine grâce à nos participants nous permettent de recenser la propagation de la grippe, du coronavirus, ainsi que d'autres infections et problèmes de santé. 
+Nous remercions les participants pour leurs contributions hebdomadaires. Ensemble, nous pouvons ainsi suivre l’évolution de la situation en Belgique, et ce, rapidement et à un stade précoce. 
 
-<img src="assets/images/covid19_EN.png" width="100%">
+## Symptômes et problèmes de santé
+Chaque semaine, nos participants indiquent s'ils ont ressenti un ou plusieurs symptôme(s).
+La semaine dernière, nous avons reçu 612 questionnaires complétés. Dans 92.2% des questionnaires complétés, aucun symptôme n'a été signalé. 
+Ce graphique indique le pourcentage de participants ayant signalé un symptôme particulier. Une combinaison de symptômes peut indiquer une maladie infectieuse spécifique telle que la grippe, le coronavirus, le VRS, etc. 
 
-## Weekly Symptoms
-In the past week we had 612 completed weekly symptom questionnaires. In 92.2% of the symptom questionnaires it was reported that there were *no symptoms*. The graph below shows the incidence per 1000 participants with flu like symptoms. 
+<img src="assets/images/symptoms_FR.png" width="100%">
 
-<img src="assets/images/ILI_EN.png" width="100%">  
+## Ligne de tendance des plaintes de type grippal
+Ce graphique montre le nombre de participants pour 1.000 personnes présentant des symptômes de type grippal sur une période prolongée.   
 
-## Background Information
-On July 6, 2023 we had 1838 participants. 59.3% of the participants are female, and 40.4% male. The map shows the total number of participants per 100.000 inhabitants per province. 
-<br />
+<img src="assets/images/ILI_FR.png" width="100%">
 
-#### Geographical distribution
+## Ligne de tendance des symptômes de type coronavirus
+Ce graphique montre le nombre de participants pour 1.000 personnes présentant des symptômes de type coronavirus sur une période prolongée.
+
+<img src="assets/images/covid19_FR.png" width="100%">
+
+## Nos participants
+Ces graphiques indiquent l'âge, le sexe et le lieu de résidence de nos participants. Nous avons 1838 participants, dont 40.4% d'hommes et 59.3% de femmes. Le graphique illustre le nombre de participants pour 1.000 habitants par province. Une couleur plus foncée indique une plus grande participation des habitants de cette province. 
+Vous ne figurez pas encore parmi les participants ? Dans ce cas, inscrivez-vous, et contribuez à la surveillance des maladies infectieuses.
 
 <img src="assets/images/ParticipationMap.png" width="100%">
 
-#### Age and gender distribution
-
-<img src="assets/images/pyramide_EN.png" width="80%">
-<br />
+<img src="assets/images/pyramide_FR.png" width="80%">

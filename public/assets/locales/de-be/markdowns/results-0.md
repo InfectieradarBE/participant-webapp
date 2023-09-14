@@ -1,28 +1,29 @@
-`Diese Seite wurde zum letzten Mal angepasst am 06.Jul.2023 15:00.`
-<br />
-On this page you will be able to see the latest results from the data collected by Infectieradar.be.
-<br />
+`Diese Seite wurde zum letzten Mal angepasst am 14.Sep.2023 09:00.`
 
-## COVID-19
-The graph below shows the incidence per 1000 participants with COVID-19-like symptoms over time. These are participants who reported at least one of the following symptoms in the past week: fever, cough, shortness of breath, loss of smell or taste. 
-* 98.5% of the participants is fully vaccinated for COVID-19 
+Mit den Daten, die wir jede Woche von unseren Teilnehmern erhalten, können wir die Verbreitung von Grippe, COVID-19, anderen Infektionen und Gesundheitsbeschwerden kartieren.
+Wir danken den Teilnehmern für ihre wöchentlichen Beiträge. Gemeinsam können wir die Situation in Belgien schnell und frühzeitig erfassen.
 
-<img src="assets/images/covid19_EN.png" width="100%">
+## Symptome und gesundheitliche Beschwerden
+Unsere Teilnehmer berichten jede Woche, ob sie eines oder mehrere Symptome hatten.
+In der vergangenen Woche erhielten wir 612 ausgefüllte Fragebögen. In 92.2 % der ausgefüllten Fragebögen wurden keine Symptome angegeben.
+Diese Grafik zeigt den Prozentsatz der Teilnehmer, die ein bestimmtes Symptom melden. Eine Kombination aus Symptomen kann auf eine bestimmte Infektionskrankheit wie Grippe, Corona, RSV oder andere Erkrankungen hinweisen.
 
-## Weekly Symptoms
-In the past week we had 612 completed weekly symptom questionnaires. In 92.2% of the symptom questionnaires it was reported that there were *no symptoms*. The graph below shows the incidence per 1000 participants with flu like symptoms. 
+<img src="assets/images/symptoms_DE.png" width="100%">
 
-<img src="assets/images/ILI_EN.png" width="100%">  
+## Trendlinie grippeähnliche Symptome
+Diese Grafik zeigt die Anzahl der Teilnehmer pro 1000 mit grippeähnlichen Symptomen im Laufe der Zeit.
 
-## Background Information
-On July 6, 2023 we had 1838 participants. 59.3% of the participants are female, and 40.4% male. The map shows the total number of participants per 100.000 inhabitants per province. 
-<br />
+<img src="assets/images/ILI_DE.png" width="100%">
 
-#### Geographical distribution
+## Trendlinie COVID-19-ähnliche Beschwerden
+Diese Grafik zeigt die Anzahl der Teilnehmer pro 1000 mit COVID-19-ähnlichen Beschwerden im Laufe der Zeit.
+
+<img src="assets/images/covid19_DE.png" width="100%">
+
+## Unsere Teilnehmer
+Diese Diagramme zeigen das Alter, das Geschlecht und den Wohnort unserer Teilnehmer. Es gibt 1838 Teilnehmer, davon 40.4 % Männer und 59.3 % Frauen. Die Karte zeigt die Anzahl der Teilnehmer pro 1000 Einwohner pro belgischer Provinz. Eine dunklere Farbe bedeutet eine höhere Beteiligung von Einwohnern der jeweiligen Provinz.
+Sie sind noch kein Teilnehmer? Melden Sie sich an und helfen Sie mit, Infektionskrankheiten im Auge zu behalten.
 
 <img src="assets/images/ParticipationMap.png" width="100%">
 
-#### Age and gender distribution
-
-<img src="assets/images/pyramide_EN.png" width="80%">
-<br />
+<img src="assets/images/pyramide_DE.png" width="80%">

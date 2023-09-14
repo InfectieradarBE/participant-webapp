@@ -1,28 +1,29 @@
-`This page has been last updated at 06.MJUL.2023 15:00.`
-<br />
-On this page you will be able to see the latest results from the data collected by Infectieradar.be.
-<br />
+`This page has been last updated at 14.sep.2023 09:00.`
 
-## COVID-19
-The graph below shows the incidence per 1000 participants with COVID-19-like symptoms over time. These are participants who reported at least one of the following symptoms in the past week: fever, cough, shortness of breath, loss of smell or taste. 
-* 98.5% of the participants is fully vaccinated for COVID-19 
+With the data that we receive from our participants every week, we can map the spread of flu, COVID-19, other infections and health complaints.
+We thank the participants for their weekly contributions. Together we can map out the situation in Belgium quickly and at an early stage.
 
-<img src="assets/images/covid19_EN.png" width="100%">
+## Symptoms and health complaints
+Our participants report every week whether they had one or more symptoms.
+In the past week we received 612 completed questionnaires. No symptoms were reported in 92.2% of the completed questionnaires.
+This graph shows the percentage of participants reporting a specific symptom. A combination of symptoms may indicate a specific infectious disease such as flu, COVID-19, RSV, or others.
 
-## Weekly Symptoms
-In the past week we had 612 completed weekly symptom questionnaires. In 92.2% of the symptom questionnaires it was reported that there were *no symptoms*. The graph below shows the incidence per 1000 participants with flu like symptoms. 
+<img src="assets/images/symptoms_NL.png" width="100%">
 
-<img src="assets/images/ILI_EN.png" width="100%">  
+## Trend line flu-like symptoms
+This graph shows the number of participants per 1000 with flu-like symptoms over time.
 
-## Background Information
-On July 6, 2023 we had 1838 participants. 59.3% of the participants are female, and 40.4% male. The map shows the total number of participants per 100.000 inhabitants per province. 
-<br />
+<img src="assets/images/ILI_NL.png" width="100%">
 
-#### Geographical distribution
+## Trend line COVID-19-like complaints
+This graph shows the number of participants per 1000 with COVID-19-like complaints over time.
+
+<img src="assets/images/covid19_NL.png" width="100%">
+
+## Our participants
+These graphs show the age, gender and place of residence of our participants. We have 1838 participants, with 40.4% men and 59.3% women. The map shows the number of participants per 1000 inhabitants per province. A darker color indicates a higher participation from residents of the respective province.
+Not yet a participant? Sign up and help keep an eye on infectious diseases.
 
 <img src="assets/images/ParticipationMap.png" width="100%">
 
-#### Age and gender distribution
-
-<img src="assets/images/pyramide_EN.png" width="80%">
-<br />
+<img src="assets/images/pyramide_NL.png" width="80%">

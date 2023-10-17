@@ -126,16 +126,18 @@
                 {
                   "itemKey": "results",
                   "config": {
-                    "type": "markdown",
-                    "markdownUrl": "markdowns/results-0.md",
-                    "flavor": "chart-renderer"
+                    "type": "iframe",
+                    "url": "http://127.0.0.1:3865/",
+                    "autoResize": true,
+                    "scrolling": "no",
+                    "frameborder": "no"
                   }
                 }
               ]
             },
             {
               "key": "sideCol",
-              "className": "col-12 col-lg-4 mt-3 mt-lg-0",
+              "className": "col-6 col-lg-3 mt-2 mt-lg-0",
               "items": [
                 {
                   "itemKey": "references",

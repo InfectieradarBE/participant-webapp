@@ -126,9 +126,11 @@
                 {
                   "itemKey": "results",
                   "config": {
-                    "type": "markdown",
-                    "markdownUrl": "markdowns/results-0.md",
-                    "flavor": "chart-renderer"
+                    "type": "extension",
+                    "config": {
+                      "type": "results-iframe",
+                      "label": "Results IFrame"
+                    }
                   }
                 }
               ]

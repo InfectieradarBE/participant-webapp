@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script>
+    const logLanguage = (triggeredBy) => {
+      const div = document.querySelector("#message");
+      const p = document.createElement("p");
+      const textContent = JSON.stringify({
+        triggeredBy,
+        parentLanguage: window._parentLanguage,
+      });
+      p.textContent = textContent;
+      div.appendChild(p);
+    };
+
+
+    const onLanguageInit = () => logLanguage("init");
+    const onLanguageChange = (message) => logLanguage("change");
+
+    // this will be triggered on iframe loaded
+    window.addEventListener("load", () => onLanguageInit());
+
+    // this will be triggered by language changes
+    window.addEventListener("message", (event) => {
+      if (event.data == "language_changed") onLanguageChange();
+    });
+  </script>
+  <title>Document</title>
+</head>
+
+<body>
+  <div id="message"></div>
+</body>
+
+</html>

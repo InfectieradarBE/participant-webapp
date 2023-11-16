@@ -16,6 +16,10 @@ import * as headerConfig from "./configs/header.json";
 import * as navbarConfig from "./configs/navbar.json";
 import * as pagesConfig from "./configs/pages.json";
 
+import ResultsIFrame from "./components/ResultsIFrame";
+
+const extensions = [{ name: "results-iframe", component: ResultsIFrame }];
+
 const App: React.FC = () => {
 
   const { i18n } = useTranslation();
@@ -39,6 +43,7 @@ const App: React.FC = () => {
         headerConfig={headerConfig as HeaderConfig}
         navbarConfig={navbarConfig as NavbarConfig}
         pagesConfig={pagesConfig as PagesConfig}
+        extensions={extensions}
         footerConfig={footerConfig as FooterConfig}
         dateLocales={dateLocales}
       />

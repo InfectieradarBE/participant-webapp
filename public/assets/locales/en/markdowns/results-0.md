@@ -1,11 +1,11 @@
-`This page has been last updated at 11.Dec.2023 11:00.`
+`This page has been last updated at 19.Dec.2023 11:00.`
 
 With the data that we receive from our participants every week, we can map the spread of flu, COVID-19, other infections and health complaints.
 We thank the participants for their weekly contributions. Together we can map out the situation in Belgium quickly and at an early stage.
 
 ## Symptoms and health complaints
 Our participants report every week whether they had one or more symptoms.
-In the past week we received 722 completed questionnaires. No symptoms were reported in 75.5% of the completed questionnaires.
+In the past week we received 682 completed questionnaires. No symptoms were reported in 78.6% of the completed questionnaires.
 This graph shows the percentage of participants reporting a specific symptom. A combination of symptoms may indicate a specific infectious disease such as flu, COVID-19, RSV, or others.
 
 <img src="assets/images/symptoms_EN.png" width="100%">
@@ -21,7 +21,7 @@ This graph shows the number of participants per 1000 with COVID-19-like complain
 <img src="assets/images/covid19_EN.png" width="100%">
 
 ## Our participants
-These graphs show the age, gender and place of residence of our participants. We have 1982 participants, with 39.8% men and 59.9% women. The map shows the number of participants per 1000 inhabitants per province. A darker color indicates a higher participation from residents of the respective province.
+These graphs show the age, gender and place of residence of our participants. We have 1995 participants, with 39.6% men and 60.1% women. The map shows the number of participants per 1000 inhabitants per province. A darker color indicates a higher participation from residents of the respective province.
 Not yet a participant? Sign up and help keep an eye on infectious diseases.
 
 <img src="assets/images/ParticipationMap.png" width="100%">

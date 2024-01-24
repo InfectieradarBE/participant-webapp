@@ -1,5 +1,9 @@
 <br />
 
+### Podcast:
+*'Zien we de volgende pandemie sneller aankomen?'*
+* Universiteit van Vlaanderen (04/01/2024) [Link](https://www.universiteitvanvlaanderen.be/podcast/zien-we-de-volgende-pandemie-sneller-aankomen)
+
 ### Articles Scientifiques: 
 *'Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy: a cross-sectional survey and modelling study'*
 * The Lancet Regional Health - Europe, de Meijere et al. (2023) [Link](https://www.sciencedirect.com/science/article/pii/S2666776223000327)

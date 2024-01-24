@@ -8,7 +8,7 @@ const ResultsIFrame = (props: any) => {
 
     return (
         <iframe
-            style={{ width: "100%", height: "1300px" }}
+            style={{ width: "100%", height: "1800px" }}
             title="Results IFrame"
             src={iframeURL}
         />

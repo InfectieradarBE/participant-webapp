@@ -1,11 +1,11 @@
-`Deze pagina is voor het laatst aangepast op 20.Maa.2024 13:00.`
+`Deze pagina is voor het laatst aangepast op 27.Maa.2024 11:00.`
 
 Met de gegevens die we iedere week via onze deelnemers verkrijgen, kunnen we de verspreiding van griep, COVID-19, andere infecties en gezondheidsklachten in kaart brengen. 
 We danken de deelnemers voor hun wekelijkse bijdragen. Samen kunnen we snel en vroegtijdig de situatie in België in kaart brengen.
 
 ## Symptomen en gezondheidsklachten
 Onze deelnemers melden iedere week of ze één of meerdere klachten hadden.
-De afgelopen week ontvingen we 827 ingevulde vragenlijsten. In 83.1% van de ingevulde vragenlijsten werden geen symptomen gerapporteerd. 
+De afgelopen week ontvingen we 827 ingevulde vragenlijsten. In 79.1% van de ingevulde vragenlijsten werden geen symptomen gerapporteerd. 
 In deze grafiek zie je het percentage deelnemers dat een bepaalde klacht rapporteert. Een combinatie van symptomen kan wijzen op een specifieke infectieziekte zoals griep, COVID-19, RSV of een andere.
 
 <img src="assets/images/symptoms_NL.png" width="100%">

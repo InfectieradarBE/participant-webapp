@@ -1,11 +1,11 @@
-`Deze pagina is voor het laatst aangepast op 11.Jun.2024 15:00.`
+`Deze pagina is voor het laatst aangepast op 26.Jun.2024 10:00.`
 
 Met de gegevens die we iedere week via onze deelnemers verkrijgen, kunnen we de verspreiding van griep, COVID-19, andere infecties en gezondheidsklachten in kaart brengen. 
 We danken de deelnemers voor hun wekelijkse bijdragen. Samen kunnen we snel en vroegtijdig de situatie in België in kaart brengen.
 
 ## Symptomen en gezondheidsklachten
 Onze deelnemers melden iedere week of ze één of meerdere klachten hadden.
-De afgelopen week ontvingen we 757 ingevulde vragenlijsten. In 84.0% van de ingevulde vragenlijsten werden geen symptomen gerapporteerd. 
+De afgelopen week ontvingen we 733 ingevulde vragenlijsten. In 84.0% van de ingevulde vragenlijsten werden geen symptomen gerapporteerd. 
 In deze grafiek zie je het percentage deelnemers dat een bepaalde klacht rapporteert. Een combinatie van symptomen kan wijzen op een specifieke infectieziekte zoals griep, COVID-19, RSV of een andere.
 
 <img src="assets/images/symptoms_NL.png" width="100%">
@@ -21,7 +21,7 @@ Deze grafiek toont het aantal deelnemers per 1000 met COVID-19 achtige klachten 
 <img src="assets/images/covid19_NL.png" width="100%">
 
 ## Onze deelnemers
-Deze grafieken tonen de leeftijd, geslacht en woonplaats van onze deelnemers. We hebben 2225 deelnemers, met 40.3% mannen en 59.4% vrouwen. De kaart toont het aantal deelnemers op 1000 inwoners per provincie. Een donkerdere kleur wijst op een grotere deelname van inwoners uit die provincie. 
+Deze grafieken tonen de leeftijd, geslacht en woonplaats van onze deelnemers. We hebben 2227 deelnemers, met 40.2% mannen en 59.4% vrouwen. De kaart toont het aantal deelnemers op 1000 inwoners per provincie. Een donkerdere kleur wijst op een grotere deelname van inwoners uit die provincie. 
 Ben je nog geen deelnemer? Meld je aan en help mee om infectieziekten in de gaten te houden.
 
 <img src="assets/images/ParticipationMap.png" width="100%">

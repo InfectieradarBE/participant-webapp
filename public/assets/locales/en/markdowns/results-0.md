@@ -8,6 +8,11 @@ Our participants report every week whether they had one or more symptoms.
 In the past week we received 836 completed questionnaires. No symptoms were reported in 77.8% of the completed questionnaires.
 This graph shows the percentage of participants reporting a specific symptom. A combination of symptoms may indicate a specific infectious disease such as flu, COVID-19, RSV, or others.
 
+<mapchart
+    map-url="/data/provinces-en.json"
+    data-url="/data/test-data.json"
+/>
+
 <img src="assets/images/symptoms_EN.png" width="100%">
 
 ## Trend line flu-like symptoms

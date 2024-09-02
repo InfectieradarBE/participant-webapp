@@ -9,8 +9,8 @@ In the past week we received 836 completed questionnaires. No symptoms were repo
 This graph shows the percentage of participants reporting a specific symptom. A combination of symptoms may indicate a specific infectious disease such as flu, COVID-19, RSV, or others.
 
 <mapchart
-    map-url="/data/provinces-en.json"
-    data-url="/data/test-data.json"
+    map-url="/data/en/provinces.json"
+    data-url="/data/en/data.json"
 />
 
 <img src="assets/images/symptoms_EN.png" width="100%">

@@ -8,6 +8,11 @@ Chaque semaine, nos participants indiquent s'ils ont ressenti un ou plusieurs sy
 La semaine dernière, nous avons reçu 836 questionnaires complétés. Dans 77.8% des questionnaires complétés, aucun symptôme n'a été signalé. 
 Ce graphique indique le pourcentage de participants ayant signalé un symptôme particulier. Une combinaison de symptômes peut indiquer une maladie infectieuse spécifique telle que la grippe, le coronavirus, le VRS, etc. 
 
+<mapchart
+    map-url="/data/fr/provinces.json"
+    data-url="/data/fr/data.json"
+/>
+
 <img src="assets/images/symptoms_FR.png" width="100%">
 
 ## Ligne de tendance des plaintes de type grippal

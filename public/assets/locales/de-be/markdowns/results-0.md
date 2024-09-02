@@ -8,6 +8,11 @@ Unsere Teilnehmer berichten jede Woche, ob sie eines oder mehrere Symptome hatte
 In der vergangenen Woche erhielten wir 836 ausgefüllte Fragebögen. In 77.8 % der ausgefüllten Fragebögen wurden keine Symptome angegeben.
 Diese Grafik zeigt den Prozentsatz der Teilnehmer, die ein bestimmtes Symptom melden. Eine Kombination aus Symptomen kann auf eine bestimmte Infektionskrankheit wie Grippe, Corona, RSV oder andere Erkrankungen hinweisen.
 
+<mapchart
+    map-url="/data/de/provinces.json"
+    data-url="/data/de/data.json"
+/>
+
 <img src="assets/images/symptoms_DE.png" width="100%">
 
 ## Trendlinie grippeähnliche Symptome

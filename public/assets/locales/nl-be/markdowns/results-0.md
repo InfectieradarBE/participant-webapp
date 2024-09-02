@@ -8,6 +8,11 @@ Onze deelnemers melden iedere week of ze één of meerdere klachten hadden.
 De afgelopen week ontvingen we 836 ingevulde vragenlijsten. In 77.8% van de ingevulde vragenlijsten werden geen symptomen gerapporteerd. 
 In deze grafiek zie je het percentage deelnemers dat een bepaalde klacht rapporteert. Een combinatie van symptomen kan wijzen op een specifieke infectieziekte zoals griep, COVID-19, RSV of een andere.
 
+<mapchart
+    map-url="/data/nl/provinces.json"
+    data-url="/data/nl/data.json"
+/>
+
 <img src="assets/images/symptoms_NL.png" width="100%">
 
 ## Trendlijn griepachtige klachten

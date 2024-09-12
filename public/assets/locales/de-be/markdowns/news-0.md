@@ -25,7 +25,7 @@
 * Nieuwsblad, Gijsen, M. (20/10/2021) [Link](https://www.nieuwsblad.be/cnt/dmf20211020_96966637)
 
 *'Coronavirus - Een op vijf met symptomen raadpleegt huisarts'*
-* Knack, Belga (20/10/2021) [Link](https://www.knack.be/nieuws/belgie/coronavirus-een-op-vijf-met-symptomen-raadpleegt-huisarts/article-belga-1792409.html)
+* Knack, Belga (20/10/2021)
 
 *'Slechts een op vijf mensen met coronasymptomen raadpleegt huisarts'*
 * Het Laatste Nieuws, Belga, (20/10/2021) [Link](https://www.hln.be/binnenland/slechts-een-op-vijf-mensen-met-coronasymptomen-raadpleegt-huisarts~a2878996/)
@@ -40,7 +40,7 @@
 
 *'Infectieradar schakelt burgers in om symptomen te melden'*
 * Nieuwsblad, Belga (29/03/2021) [Link](https://www.nieuwsblad.be/cnt/dmf20210329_93584115)
-* Knack, Belga (29/03/2021) [Link](https://www.knack.be/nieuws/belgie/infectieradar-schakelt-burgers-in-om-symptomen-te-melden/article-belga-1717235.html)
+* Knack, Belga (29/03/2021) 
 
 *'Team van Niel Hens lanceert Infectieradar om verspreiding virussen in kaart te brengen'*
 * Het Belang Van Limburg, Deferme, S. (29/03/2021) [Link](https://www.hbvl.be/cnt/dmf20210329_93158218)

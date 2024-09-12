@@ -1,19 +1,18 @@
-const { createProxyMiddleware } = require('http-proxy-middleware');
+const { createProxyMiddleware } = require("http-proxy-middleware");
 
-module.exports = function(app) {
+// change this to the address exposing the participant-api
+const target = "http://127.1.27.4:3231";
 
+module.exports = function (app) {
   app.use(
-    '/api',
+    "/api",
     createProxyMiddleware({
-      target: 'https://local.infectieradar.be',
-      changeOrigin: true,
+      target: target,
       secure: false,
       pathRewrite: {
-        '^/api/': '/api/',
-      },
-      onProxyReq: function(request) {
-        request.setHeader("origin", "https://local.infectieradar.be");
-      },
-    })
-  );
+        "^/api/": "/"
+      }
+    }
+  )
+);
 }

@@ -1,12 +1,13 @@
 import React, { useEffect } from "react";
-import { AppCore } from "case-web-app-core";
 import { useTranslation } from "react-i18next";
-
-import { AppConfig } from 'case-web-app-core/build/types/appConfig';
-import { FooterConfig } from 'case-web-app-core/build/types/footerConfig';
-import { HeaderConfig } from 'case-web-app-core/build/types/headerConfig';
-import { NavbarConfig } from 'case-web-app-core/build/types/navbarConfig';
-import { PagesConfig } from 'case-web-app-core/build/types/pagesConfig';
+import {
+  AppCore,
+  AppConfig,
+  FooterConfig,
+  HeaderConfig,
+  NavbarConfig,
+  PagesConfig
+} from '@influenzanet/case-web-app-core';
 
 import { fr, de, nl } from 'date-fns/locale';
 
@@ -31,6 +32,11 @@ const App: React.FC = () => {
       i18n.changeLanguage(`${process.env.REACT_APP_DEFAULT_LANGUAGE}`);
     }
   }, [i18n, i18n.language]);
+
+  let appConfig_: AppConfig = { ...appConfig };
+  if (process.env.REACT_APP_DEFAULT_INSTANCE) {
+    appConfig_.instanceId = process.env.REACT_APP_DEFAULT_INSTANCE;
+  }
 
   return (
     <React.Fragment>

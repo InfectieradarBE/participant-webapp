@@ -11,8 +11,14 @@
         {
           "type": "external",
           "itemKey": "twitter",
-          "value": "https://twitter.com/InfectieradarBe",
+          "value": "about:blank",
           "iconClass": "fab fa-twitter"
+        },
+        {
+          "type": "external",
+          "itemKey": "facebook",
+          "value": "about:blank",
+          "iconClass": "fab fa-facebook"
         }
       ]
     },
@@ -46,8 +52,8 @@
         },
         {
           "type": "language",
-          "itemKey": "fr-be",
-          "value": "fr-be"
+          "itemKey": "it",
+          "value": "it"
         }
       ]
     }

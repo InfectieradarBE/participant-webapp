@@ -1,73 +1,34 @@
-# web-client
-The web-interface for the participants of the Infectieradar Belgium survey platform
+# participant-web-app
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web-interface for the Influenzanet platform.
 
 ## Web UI configuration
 
 Start by creating a fork of this repo in your local organisation or create a local copy of this repository.
 
-The example-public-folder contains example configurations within the assets folder. Replace the content here to make changes as needed.
+The `example-public-folder` folder contains a working example of a possible web application structure. Create a copy of this folder named `public` and replace the contents there to suit your needs.
 
-1. Update the public/assets/locales to add folders for each supported language.
-2. Configure the keys, markdown content within the locales folders.
-3. Upload additional images needed into the public/assets/images folder.
-4. Configure page layouts, headers, and footers by configuring the files present in public/assets/configs.
-4.1. **Appconfig**: Set the language codes for the supported languages here. Also configure the avatars available for user profiles here.
-4.2. **header**: Set the logo image and styles used in the header here.
-4.3. **Navbar**: Set the items and the URL's they map on the navigation bar. This also includes the items that show up under the user dropdown on the right corner of the navbar.
-4.4. **Footer**: Configure the columns and links in the footer section.
-4.5. **Pages**: Contains an array of the different pages of the webapp. Here you can map a url to a page, and set the layout, contents, elements and styles for each page item. Note: "pageKey" is used to map to a file in locales to render the labels for the elements of the page in each language. "itemkey" defines the name to be looked for in the file defined by "pageKey".
+1. Update the `public/assets/locales` to add folders for each supported language.
+2. Configure the keys, json and markdown contents within the `locales` folders.
+3. Upload additional images needed into the `public/assets/images` folder.
+4. Configure page layouts, headers, and footers by configuring the json files present in `public/assets/configs`.
+
+4.1. **appConfig.json**: Set the language codes for the supported languages here. Also configure the avatars available for user profiles here.
+
+4.2. **header.json**: Set the logo image and styles used in the header here.
+
+4.3. **navbar.json**: Set the items and the URL's they map on the navigation bar. This also includes the items that show up under the user dropdown on the right corner of the navbar.
+
+4.4. **footer.json**: Configure the columns and links in the footer section.
+
+4.5. **pages.json**: Contains an array of the different pages of the webapp. Here you can map a url to a page, and set the layout, contents, elements and styles for each page item. Note: `pageKey` is used to map to a file in the `locales` folder containing the localized labels for the elements of the page. `itemkey` defines the key to be looked for in the file identified by `pageKey`.
 
 
+### Results Page
 
-## Deployment Setup
-1. Create a fork of this repo in your local organisation. 
-2. Configure the fields present in the file env-sample.config. Lookup step 1 of local setup for examples.
-3. Create github secrets for the following fields:
-  3.1. DOCKER_ORGANIZATION
-  3.2. DOCKER_REPO_NAME
-  3.3. DOCKER_USER
-  3.4. DOCKER_PASSWORD
-4. Configure the actions file under .github/workflows/docker-image.yml to build and deploy docker images as needed.
+The result's page is a container to display different subpages. The list of subpages needs to be defined through the file `content/<language>/results.json` for each translation.
 
-## Local Setup
-1. Create `.env.local` and copy in it the contents of env-sample.config. Edit the fields below: 
-  ```
-  REACT_APP_DEFAULT_INSTANCE=<instance-name>
-  REACT_APP_API_BASE_URL=/api
-  REACT_APP_DEFAULT_LANGUAGE=en
-  REACT_APP_FALLBACK_LANGUAGE=en
-  REACT_APP_CONTENT_URL="/assets"
-  REACT_APP_USE_RECAPTCHA=true
-  REACT_APP_RECAPTCHA_SITEKEY=<reCaptcha_public_key>
-  REACT_APP_TITLE=Infectieradar.be
-  REACT_APP_DESCRIPTION="Een onderzoek in de strijd tegen epidemieën"
-  REACT_APP_CSP_DEFAULT_SRC="'self'"
-  REACT_APP_CSP_MEDIA_SRC="'self'"
-  REACT_APP_CSP_IMG_SRC="'self' data: https:"
-  REACT_APP_CSP_STYLE_SRC="'unsafe-inline' 'self' https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ "
-  REACT_APP_CSP_SCRIPT_SRC="'unsafe-inline' https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ 'self' 'unsafe-eval'"
-  REACT_APP_CSP_FRAME_SRC="https://www.google.com/recaptcha/ https://recaptcha.google.com/recaptcha"
-  REACT_APP_CSP_CHILD_SRC="https://www.google.com/"
-  REACT_APP_CSP_CONNECT_URLS="http://survey.infectieradar.be https://survey.infectieradar.be ws://survey.infectieradar.be// ws://survey.infectieradar.be/ https://www.google.com/recaptcha/ https://www.google.com/ http://www.w3.org/2000/svg"
-
-  ```
-Replace the connect urls with all the urls which must be allowed in CSP connect-src, including PARTICIPANT-API SERVICE address, separated by spaces.
-The option "unsafe-eval" in script-src, is needed for Vega plot rendering.
-
-Note: System falls back to 'en' if REACT_APP_DEFAULT_LANGUAGE and REACT_APP_FALLBACK_LANGUAGE is not set.
-
-2. Install dependencies by running ```yarn install```
-3. Run the web ui by entering ```yarn start```
-
-## Results Page
-The result's page is a container to display different subpages. The list of subpages needs to be defined through the file
-`content/<language>/results.json`
-for each translation.
-
-Example content for the `results.json`:
+Example content for the `results.json` file:
 
 ``` json
 {
@@ -76,12 +37,12 @@ Example content for the `results.json`:
     {
       "linkName": "Results for Week 43",
       "route": "week43",
-      "markdown": "content/nl/results/week43.md"
+      "markdown": "content/en/results/week43.md"
     },
     {
       "linkName": "Results for Week 42",
       "route": "week42",
-      "markdown": "content/nl/results/week42.md"
+      "markdown": "content/en/results/week42.md"
     }
   ]
 }
@@ -95,31 +56,72 @@ Example content for the `results.json`:
 - `route`: selector that will be used in the url to navigate to the page.
 - `markdown`: path where the markdown definition for the page can be found.
 
-### Markdown for the results page
+## Production Environment Setup
 
-Content for the subpages of the result container is defined through markdown files.
-Beside the typical markdown structures, e.g., headings, paragraphs and lists, the following content type is supported:
-- **vega**: To display a figure defined by vega specification.
-- **mapchart:<url-to-map-json>**: map based visualisation.
-- **images**: Images from URL and with caption.
+1. Copy `env-sample.config` to `.env-local`
+2. Configure the fields present in the file `.env-local`:
 
-Example markdown content:
-```markdown
-This is a [link](https://www.rivm.nl/infectie-radar/resultaten) pointing to an external page's url.
+    ```
+    REACT_APP_DEFAULT_INSTANCE=<instance-name>
+    REACT_APP_API_BASE_URL=/api
+    REACT_APP_DEFAULT_LANGUAGE=en
+    REACT_APP_FALLBACK_LANGUAGE=en
+    REACT_APP_CONTENT_URL="/assets"
+    REACT_APP_USE_RECAPTCHA=true
+    REACT_APP_RECAPTCHA_SITEKEY=<reCaptcha_public_key>
+    REACT_APP_TITLE=<app-title>
+    REACT_APP_DESCRIPTION=<app-description>
+    REACT_APP_CSP_DEFAULT_SRC="'self'"
+    REACT_APP_CSP_BASE_URI="'self'"
+    REACT_APP_CSP_FRAME_ANCESTORS="'none'"
+    REACT_APP_CSP_MEDIA_SRC="'self'"
+    REACT_APP_CSP_IMG_SRC="'self'"
+    REACT_APP_CSP_STYLE_SRC="'self' https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/ "
+    REACT_APP_CSP_SCRIPT_SRC="'self' https://www.gstatic.com/recaptcha/ https://www.google.com/recaptcha/"
+    REACT_APP_CSP_FRAME_SRC="https://www.google.com/recaptcha/ https://recaptcha.google.com/recaptcha"
+    REACT_APP_CSP_CHILD_SRC="https://www.google.com/"
+    REACT_APP_CSP_CONNECT_URLS="'self'' https://www.google.com/recaptcha/ https://www.google.com/ http://www.w3.org/2000/svg"
+    ```
 
-## Example title
-You can add vega spec files like this:
+    - Make sure to update the fields `REACT_APP_RECAPTCHA_SITEKEY` and `REACT_APP_DEFAULT_INSTANCE` to suit your needs.
 
-[vega]: content/nl/results/week42-map.json
+    - Replace the `REACT_APP_CSP_CONNECT_URLS` with all the urls which must be allowed in CSP connect-src, including the api endpoint uri if they are served from a different domain.
 
-Images with titles:
+    - Add the option 'unsafe-eval' in `REACT_APP_CSP_SCRIPT_SRC` if you need Vega plot rendering.
 
-![Alternative text for accesibility](content/nl/results/week42-symptomen.png "Caption of the image")
-```
+    - System falls back to 'en' if `REACT_APP_DEFAULT_LANGUAGE` and `REACT_APP_FALLBACK_LANGUAGE` are not set.
+    
+## Development Environment Setup
 
-## Available Scripts
+1. Create `.env.development.local` and override the contents of `.env.local` as needed
+2. Install dependencies by running ```yarn install```
+3. Run the web ui by entering ```yarn start```
+4. Test the application locally
+
+## Deploy the application
+
+1. Create the following github secrets:
+
+- DOCKER_ORGANIZATION
+- DOCKER_REPO_NAME
+- DOCKER_USER
+- DOCKER_PASSWORD
+
+2. Run the github action defined in `.github/workflows/docker-image.yml` to build and deploy docker images.
+
+## Appendix - Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
+
+### configure proxy for api calls
+
+In order to be able to call api endpoints when testing the web app locally, you need to proxy the requests directed to the `/api` endpoint accordingly to the platform setup you are targeting. 
+
+In case you have all the services running locally, you can use the configuration present in `setupProxy-local.js` and copy it to a file named `setupProxy.js`
+
+In case you want to run the web app locally but target a platform hosted somewhere else (for example, a Kubernetes cluster in the cloud) you can use the configuration present in `setupProxy-remote.js` and copy it to a file named `setupProxy.js`.
 
 ### `yarn start`
 

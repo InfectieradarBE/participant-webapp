@@ -1,32 +1,63 @@
-name: Docker Image CI
+name: Build docker image
+run-name: ${{ inputs.image_version }}
 
 on:
+  workflow_call:
+    inputs:
+      image_version:
+        required: true
+        type: string
+      environment:
+        required: true
+        type: string
+    secrets:
+      DOCKER_USER:
+        required: true
+      DOCKER_PASSWORD:
+        required: true
+      DOCKER_ORGANIZATION:
+        required: true
+      DOCKER_REPO_NAME:
+        required: true
   workflow_dispatch:
     inputs:
-      tags:
-        description: 'Docker Tag override: [leave empty if not needed]'
+      image_version:
+        default: v0.0.1
+        required: true
+        type: string
+      environment:
+        description: "github environment to use"
+        default: ""
+        required: false
+        type: string
+
 
 jobs:
-
   build:
-
+    environment: ${{ inputs.environment }}
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - run: git fetch --prune --unshallow --tags
-    - name: Get current version
-      id: version
-      run: echo "REPO_VERSION=$(git describe --tags --abbrev=0)" >> $GITHUB_ENV
-    - name: Docker image tag override
-      if: ${{ github.event.inputs.tags && github.event.inputs.tags != '' }}
-      run: echo "REPO_VERSION=${{github.event.inputs.tags}}" >> $GITHUB_ENV
+    - name: Move sample .env-local
+      if: ${{ github.repository_owner == 'influenzanet' }}
+      run: mv env-sample.config .env.local
+    - name: Copy sample public
+      if: ${{ github.repository_owner == 'influenzanet' }}
+      run: mv example-public-folder public
+    - name: Override instanceId
+      env:
+        INSTANCE_ID: ${{ secrets.INSTANCE_ID }}
+      if: ${{ env.INSTANCE_ID != '' }}
+      run: |
+        echo "REACT_APP_DEFAULT_INSTANCE=${{ secrets.INSTANCE_ID }}" > .env.production.local
     - name: docker login
       env:
         DOCKER_USER: ${{secrets.DOCKER_USER}}
         DOCKER_PASSWORD: ${{secrets.DOCKER_PASSWORD}}
       run: docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag ${{secrets.DOCKER_ORGANIZATION}}/${{secrets.DOCKER_REPO_NAME}}:$REPO_VERSION
+      run: docker build --file Dockerfile --tag ${{secrets.DOCKER_ORGANIZATION}}/${{secrets.DOCKER_REPO_NAME}}:${{inputs.image_version}} .
     - name: Push Docker image
-      run: docker push ${{secrets.DOCKER_ORGANIZATION}}/${{secrets.DOCKER_REPO_NAME}}:$REPO_VERSION
+      run: docker push ${{secrets.DOCKER_ORGANIZATION}}/${{secrets.DOCKER_REPO_NAME}}:${{inputs.image_version}}
+

@@ -33,8 +33,7 @@
 <img src="assets/images/UHmagazine.png" width="40%">
 
 *'Hoe meer data, hoe beter we virussen kunnen opvolgen'*
-* UHasselt magazine (Juli 2021, p. 9-12) [Link](https://www.uhasselt.be/documents/Tijdschriften/UHmagazine/Magazine-juli_2021_klein.pdf)
-
+* UHasselt magazine (Juli 2021, p. 9-12)
 *'Infectieziektes op het spoor'*
 * EOS magazine, Goeyers, C. (14/04/2021) [Link](https://www.eoswetenschap.eu/diy/infectieziektes-op-het-spoor)
 

@@ -8,4 +8,4 @@ Deelnemers ontvangen eerst een registratie met vragen over hun achtergrond, over
 </br>
 Infectieradar.be krijgt financiële steun van het EU Horizon 2020 programma.
 
-Infectieradar.be is onderdeel van het Europees consortium [Influenzanet](https://infectieradar.be/en/influenzanet/).
+Infectieradar.be is onderdeel van het Europees consortium [Influenzanet](https://influenzanet.info/home).

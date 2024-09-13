@@ -8,4 +8,4 @@ Participants receive an initial registration form with questions about their bac
 </br>
 Infectieradar receives financial support from the EU Horizon 2020 program.
 
-Infectieradar is part of the European consortium [Influenzanet](https://infectieradar.be/en/influenzanet/).
+Infectieradar is part of the European consortium [Influenzanet](https://influenzanet.info/home).

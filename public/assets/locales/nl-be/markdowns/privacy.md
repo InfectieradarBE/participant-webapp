@@ -159,7 +159,7 @@ Google geeft onder de volgende [link](https://policies.google.com/privacy) infor
 ---
  
 ### Wijziging privacyverklaring
-Deze privacyverklaring kan worden gewijzigd. In dat geval zullen wij het gewijzigde [Formulier Geïnformeerde Toestemming](https://infectieradar.be/project/) publiceren.
+Deze privacyverklaring kan worden gewijzigd. In dat geval zullen wij het gewijzigde [Formulier Geïnformeerde Toestemming](https://infectieradar.be/wp-content/uploads/2021/01/Formulier-Geïnformeerde-Toestemming.pdf) publiceren.
 
 
 ##### Versie 2.0 2-10-2020

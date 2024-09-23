@@ -4,7 +4,7 @@ import IframeResizer  from "@iframe-resizer/react";
 const ResultsIFrame = (props: any) => {
     const { i18n } = useTranslation();
 
-    const baseUrl = "http://dashboard.infectieradar.be/"
+    const baseUrl = "https://dashboard.infectieradar.be/"
     const iframeURL = `${baseUrl}${i18n.language}`
 
     return (

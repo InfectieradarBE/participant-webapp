@@ -143,7 +143,7 @@ After the study, your encrypted data will be kept for at least 25 years to ensur
 ---
 
 ### Modification of privacy policy
-This privacy policy may be modified. If this happens, we will publish the modified [Informed Consent Form](https://infectieradar.be/en/project/).
+This privacy policy may be modified. If this happens, we will publish the modified [Informed Consent Form](https://infectieradar.be/wp-content/uploads/2021/02/Informed-Consent-Form.pdf).
 
 
 ##### Version 2.0 2-10-2020

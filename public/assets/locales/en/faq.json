@@ -66,6 +66,14 @@
     {
       "title": "Oops! What if I forget to write down my social interactions in the diary?",
       "content": "We totally understand that life can be busy! While we recommend completing your contact diary at the end of each day, you can fill it out whenever it’s most convenient for you. Just make sure to capture important interactions—every entry helps us paint a clearer picture!"
+    },
+    {
+      "title": "How will my personal data be handled and processed?",
+      "content": "Your privacy is our top priority! All data will be immediately pseudonymized on our secure study platform and stored in a protected Google shared drive. Only the administrator will have access to the key for this pseudonymization process, ensuring your information remains confidential. Rest assured, your data will be processed with utmost care, in accordance with the General Data Protection Regulation (GDPR1) and the Belgian data protection law of July 30, 2018. The study sponsor is responsible for this process, and we can process your personal data because we’re conducting vital scientific research, with your consent to participate."
+    },
+    {
+      "title": "All information is crystal clear! But, I bet you are curious about the faces behind this project, aren’t you?",
+      "content": "The project is spearheaded by the passionate members of the SIMID (Simulation Models of Infectious Diseases) Research group! Our dedicated team includes Prof. dr. Niel Hens, Prof. dr. Steven Abrams, Prof. dr. Andrea Torneri, Neilshan Loedy, and dr. Lisa Hermans. Together, we’re excited to tackle the challenges of disease transmission head-on. By participating, you’re joining a dedicated community focused on making a positive impact!"
     }
   ]
 }

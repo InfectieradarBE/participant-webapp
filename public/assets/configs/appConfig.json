@@ -2,20 +2,8 @@
   "instanceId": "sensor",
   "languages": [
     {
-      "code": "nl-be",
-      "itemKey": "nl-be"
-    },
-    {
       "code": "en",
       "itemKey": "en"
-    },
-    {
-      "code": "fr-be",
-      "itemKey": "fr-be"
-    },
-    {
-      "code": "de-be",
-      "itemKey": "de-be"
     }
   ],
   "avatars": [

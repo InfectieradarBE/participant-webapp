@@ -9,8 +9,6 @@ import {
   PagesConfig
 } from '@influenzanet/case-web-app-core';
 
-import { fr, de, nl } from 'date-fns/locale';
-
 import * as appConfig from "./configs/appConfig.json";
 import * as footerConfig from "./configs/footer.json";
 import * as headerConfig from "./configs/header.json";
@@ -20,12 +18,6 @@ import * as pagesConfig from "./configs/pages.json";
 const App: React.FC = () => {
 
   const { i18n } = useTranslation();
-
-  const dateLocales = [
-    { code: 'fr-be', locale: fr, format: 'dd/MM/yyyy' },
-    { code: 'de-be', locale: de, format: 'dd/MM/yyyy' },
-    { code: 'nl-be', locale: nl, format: 'dd/MM/yyyy' },
-  ];
 
   useEffect(() => {
     if (!i18n.language) {
@@ -46,7 +38,6 @@ const App: React.FC = () => {
         navbarConfig={navbarConfig as NavbarConfig}
         pagesConfig={pagesConfig as PagesConfig}
         footerConfig={footerConfig as FooterConfig}
-        dateLocales={dateLocales}
       />
     </React.Fragment>
   );

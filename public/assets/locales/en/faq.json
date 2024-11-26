@@ -5,119 +5,67 @@
     "close": "Hide"
   },
   "topFaq": {
-    "title": "Frequently asked questions about Infectieradar.be",
+    "title": "Frequently asked questions about the sensor study",
     "content": ""
   },
   "signupCard": {
     "imageAlt": "Participate image",
     "title": "Participate",
-    "body": "Help us keep an eye on coronavirus. Report weekly whether you have any symptoms.",
+    "body": "Help us understand how respiratory diseases spread.",
     "actionLabel": "Sign up"
   },
   "faq": [
     {
-      "title": "Who set up Infectieradar.be?",
-      "content": "Infectieradar.be is part of Influenzanet, a European partnership between various universities and government agencies. Hasselt University is part of this partnership. The purpose of Influenzanet is to map and monitor the symptoms of infections, such as the new coronavirus (COVID-19) and flu, in people in Europe. The data is used for scientific research into infections, and currently into the new coronavirus."
+      "title": "Why do we need you?",
+      "content": "Your unique social interactions are part of a bigger picture that helps us understand how respiratory diseases spread. Social contacts are diverse and shaped by factors like e.g. location, which play a key role in transmission patterns. Together, we can better understand how our interactions affect disease spread, helping us build strategies to keep our communities safe and healthy!"
     },
     {
-      "title": "Who is Infectieradar.be intended for?",
-      "content": "Anyone living in Belgium who has Internet access can participate in Infectieradar.be, voluntarily and for as long as they wish."
+      "title": "Why should I join, and especially how does it help if all my DSI colleagues join too?",
+      "content": "Each person who joins makes a real impact! The more DSI members participate, the better our study can capture the full network of our interactions. Together, we’ll build a richer, more accurate model that reflects transmission routes of respiratory diseases within DSI—your contribution truly matters!"
     },
     {
-      "title": "How can I participate in Infectieradar.be?",
-      "content": "You can participate by signing up with an email address and personal password."
+      "title": "How can you help?",
+      "content": "Joining us is easy! Just fill out a quick intake form, wear a small wearable close-proximity sensor during your day on campus, and store it in your drawer before leaving the office. At the end of each working day, fill out a quick survey collecting information on interactions the sensor might miss. That’s it! You have helped us to complete our social network picture!"
     },
     {
-      "title": "Why should I participate?",
-      "content": "In order to get the best possible picture of the situation at the moment, it is important for everyone to take part, regardless of background or risk factors. Someone who is never ill is just as capable of falling ill as someone who is often ill. Broad participation can also help us to understand why some people get infections less often."
+      "title": "What’s this cool gadget called a wearable close-proximity sensor?",
+      "content": "Think of it as your little tech buddy! These wearable sensors track how close you are to others, helping us to gather data on social interactions in real-time while keeping everything super safe and low-power. They use low-energy radio signals to measure proximity, so you can feel good knowing they’re much less powerful than your mobile phone or Wi-Fi. Plus, they help us gather valuable data to improve public health strategies!"
     },
     {
-      "title": "Is Infectieradar.be the same as the University of Antwerp coronavirus study?",
-      "content": "Both studies monitor symptoms linked to the pandemic in Belgium. With Infectieradar.be, however, we hope to establish a national surveillance system to monitor symptoms of infectious diseases over the long term, including the period after COVID; furthermore, this is being done in an international context. Our research has links with a European initiative: Influenzanet. This is a European partnership involving various universities and government agencies, which aims to monitor and map symptoms of viral infections such as flu in people in the EU member states. In addition to national monitoring, this also makes it possible to compare data at European level."
+      "title": "Exciting!!! When does it all begin?",
+      "content": "We’re excited to kick off the study on December 2nd after which it will run until December 13th, 2024! During this time, we’ll work together to gather insights that could make a real difference."
     },
     {
-      "title": "I’m not Belgian, but live in Belgium: can I participate in Infectieradar.be?",
-      "content": "Definitely! Infectieradar.be is interested in the situation in Belgium. Anyone living in Belgium can therefore take part even if they are of different nationality."
+      "title": "What if I’m off on an adventure during (some of) the study period?",
+      "content": "No worries at all! You can still be a valuable part of our study. If you happen to be away for any reason—be it a vacation, conference, or business trip—just make sure to fill in your contact diary at the end of each day you’re away. If you know you’ll be away before the study ends, feel free to return the sensor earlier to one of our team members (Neilshan Loedy - E129). Your contributions still matter!"
     },
     {
-      "title": "I’m Belgian, but live abroad: can I participate?",
-      "content": "No. Only people living in Belgium can participate in this study. However, if you live in Germany, Australia, Austria, Switzerland, Belgium, France, Italy, Mexico, Portugal, the United Kingdom or Sweden, similar studies exist in those countries."
+      "title": "You are not the two full weeks at the campus?",
+      "content": "No problem at all! The study and the survey are constructed in such a way that you can still contribute when working from home, having meetings in other locations or even begin abroad. You just report this in the daily survey, and by doing so, you’ll help us gather a wealth of important information!"
     },
     {
-      "title": "I had a flu shot this year. Can I participate?",
-      "content": "The study is aimed at everyone. It doesn’t matter whether they are vaccinated against the flu or not."
+      "title": "What’s next?",
+      "content": "Yes! This is a pilot study, paving the way for future research in vulnerable populations where controlling spread of respiratory infections is crucial. We’re already planning the next steps and hope to learn from this pilot, gaining insights that will shape strategies to protect those most at risk."
     },
     {
-      "title": "How long does it take to complete the questionnaire on Infectieradar.be?",
-      "content": "It takes about 5 minutes to register and complete the first questionnaire. Filling in the weekly questionnaire each week then takes between 30 seconds (if you have no symptoms) and a few minutes (if you have symptoms or had them during the week)."
+      "title": "What makes certain environments so important for contact studies?",
+      "content": "Have you ever thought about how our interactions are related to the location where these take place? Traditional mathematical models often assume that everyone interacts equally, but our real-life connections are far more nuanced! Cosy homes have close, frequent and long-lasting contacts, while busy universities feature a vibrant mix of shorter interactions. By studying these unique environments, we can create tailored models that accurately reflect disease transmission in specific epidemiological settings."
     },
     {
-      "title": "How long will the study run?",
-      "content": "The study has no end date, but you can stop participating at any time by unsubscribing from the weekly questionnaire. You can re-register later on if you change your mind and want to take part again."
+      "title": "Why is the university setting a perfect place for this study?",
+      "content": "Universities are like miniature societies, bustling with distinct groups—professors, PhD students, and undergraduates—each engaging in various settings like classrooms, labs, and social spaces. This diversity creates intricate networks of contacts that reveal how diseases can spread within different segments of the same community. By diving into these interactions, we can gather valuable insights that benefit both the university and similar environments."
     },
     {
-      "title": "Will participating in the study cost me money?",
-      "content": "No, participation in the study is free and voluntary."
+      "title": "Where does all this data go, and why does it matter?",
+      "content": "We’ll use this data to build detailed “maps” of interactions within our university, creating time-sensitive contact networks. These networks will help us develop models to better understand and predict how respiratory infections spread in similar settings."
     },
     {
-      "title": "What happens after I have registered?",
-      "content": "In the first questionnaire you will be asked some background questions about your health and daily life. You will only be sent this questionnaire once. You will then receive a weekly email inviting you to complete a questionnaire."
+      "title": "How can I step up and contribute?",
+      "content": "We’d love for all members of the Data Science Institute (DSI) to be part of this study! Your participation is completely voluntary, and you’re free to step back at any time, no questions asked. By joining, you’ll be helping us unlock valuable insights."
     },
     {
-      "title": "What questions are asked in the background questionnaire?",
-      "content": "The purpose of the background questionnaire is to find out a little more about each user. For most of the questions, you have the option of not answering by choosing the answer ‘I don’t know’. It takes approximately 5 minutes to complete this questionnaire."
-    },
-    {
-      "title": "What questions are asked in the weekly questionnaire?",
-      "content": "The weekly questionnaire asks about any symptoms you have had since you last took part (runny nose, cough, fever, etc.). If you have had no symptoms, it will only take a few seconds to complete. If you have or have had symptoms, you will be asked when the symptoms started, whether you saw a doctor and whether you took time off work. Completing the questionnaire will take a few minutes in these circumstances."
-    },
-    {
-      "title": "Can I complete the questionnaire on behalf of someone else, for example my child?",
-      "content": "Yes, you can complete the questionnaires for your children under the age of 18. However, other household members aged 18 or older must create their own account."
-    },
-    {
-      "title": "I don’t know if I will always be able to complete the weekly questionnaire. Can I still participate?",
-      "content": "Yes, you can. Simply complete the questionnaires as often as you can. The more often you participate, the more useful the collected data will be, but even someone who only participates every two weeks is helpful to the study."
-    },
-    {
-      "title": "Are my data secure?",
-      "content": "We take the security of the data of participants in Infectieradar.be very seriously. The system is subject to strict requirements, including in the areas of privacy and information security. The system has been carefully tested in terms of security, privacy and capacity by external parties at the University of Hasselt. The risks to the rights and freedoms of those whose personal data are processed have been carefully assessed."
-    },
-    {
-      "title": "I have already been infected with the new coronavirus. Does it still make sense for me to participate?",
-      "content": "Yes, do also participate if you have already had COVID-19. Infectieradar.be was set up to study symptoms, including in those who have already had the new coronavirus. When you sign up, we will ask you whether you have already been infected."
-    },
-    {
-      "title": "I have forgotten my password. What should I do?",
-      "content": "Click on ‘forgotten password’ in the login window. Enter your email address and you will receive an email to create a new password."
-    },
-    {
-      "title": "Can I set whether I will receive emails from Infectieradar.be?",
-      "content": "Yes, you can. Click on your profile name in the topmost blue bar at the top right. Go to settings. You can indicate there whether you want to receive emails – for example, the weekly invitation to report your symptoms (even without a weekly email, a new questionnaire will be ready for you to complete)."
-    },
-    {
-      "title": "How can I create a profile for my child(ren)?",
-      "content": "Click on your profile name in the topmost blue bar at the top right. You can add your child’s profile there. If you select the new profile, you can enter the details for your child."
-    },
-    {
-      "title": "I no longer want to participate. Where can I withdraw from the study?",
-      "content": "It’s a shame that you don't want to participate any more. We could use your help to keep coronavirus under control. However, you can simply stop completing the weekly questionnaire. If you also want to completely withdraw (and close your account), you can do so through the settings"
-    },
-    {
-      "title": "I want to change my answers. Is that possible?",
-      "content": "You can change your answers while completing the questionnaire.  Once you have clicked on the send button, it is no longer possible to change your answers. This applies to both the first questionnaire and the weekly questionnaires."
-    },
-    {
-      "title": "I have symptoms: will I receive a diagnosis if I complete the questionnaire?",
-      "content": "No, the questionnaire enables you to list the symptoms you have, but this is not in any way a substitute for a visit to your doctor, who can make a diagnosis."
-    },
-    {
-      "title": "I have a chronic health condition, so I often have symptoms that also appear in the weekly questionnaire: how should I complete the questionnaire?",
-      "content": "Certain conditions give rise to symptoms from the weekly questionnaire on a chronic basis, such as chronic fatigue syndrome or rheumatoid arthritis. You don’t need to tick these symptoms every time unless the symptoms have changed. For example, if you have rheumatism, only tick the ‘Joint pain’ box if these symptoms have recently grown worse or are different from usual."
-    },
-    {
-      "title": "I have had no symptoms this week: should I still complete the weekly questionnaire?",
-      "content": "Yes, to gain a reliable picture of the situation in Belgium, it is important to have data about both people who are ill and those who are not ill. If only people with symptoms participate, we cannot estimate properly how the new coronavirus is developing. This is why it is just as important for people who are not ill to take part as for those who have symptoms. If you are not ill, the questionnaire will only take you a few seconds to complete."
+      "title": "Oops! What if I forget to write down my social interactions in the diary?",
+      "content": "We totally understand that life can be busy! While we recommend completing your contact diary at the end of each day, you can fill it out whenever it’s most convenient for you. Just make sure to capture important interactions—every entry helps us paint a clearer picture!"
     }
   ]
 }

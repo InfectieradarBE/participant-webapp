@@ -17,23 +17,8 @@
     },
     {
       "type": "internal",
-      "itemKey": "about",
-      "url": "/about"
-    },
-    {
-      "type": "internal",
       "itemKey": "faq",
       "url": "/faq"
-    },
-    {
-      "type": "internal",
-      "itemKey": "results",
-      "url": "/results"
-    },
-    {
-      "type": "internal",
-      "itemKey": "news",
-      "url": "/news"
     }
   ],
   "rightItems": [

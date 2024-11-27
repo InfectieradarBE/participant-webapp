@@ -6,6 +6,6 @@ This service uses tracking cookies, which monitor your behaviour during your vis
 * Google account login status
 * The visitor’s browsing behaviour on Infectieradar.be
 
-For more information about the use of this service and the processing of your data, see the [privacy policy](https://survey.infectieradar.be/privacy).
+For more information about the use of this service and the processing of your data, see the [privacy policy](https://sensor.infectieradar.be/privacy).
 
 By clicking on “I agree” you consent to the installation of tracking cookies and the processing of the above-mentioned data by Google.

@@ -118,14 +118,6 @@
               "className": "col-12 col-lg-8",
               "items": [
                 {
-                  "itemKey": "userSymptomsHistory",
-                  "className": "row g-0 bg-primary",
-                  "config": {
-                    "type": "userSymptomsHistory",
-                    "studyId": "infectieradar-be"
-                  }
-                },
-                {
                   "itemKey": "surveyList",
                   "className": "",
                   "config": {
@@ -144,55 +136,9 @@
                     "type": "linkList",
                     "links": [
                       {
-                        "linkKey": "resultsLink",
-                        "type": "internal",
-                        "value": "/results"
-                      },
-                      {
-                        "linkKey": "aboutLink",
-                        "type": "internal",
-                        "value": "/about"
-                      },
-                      {
                         "linkKey": "faqLink",
                         "type": "internal",
                         "value": "/faq"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "itemKey": "settingsReferences",
-                  "config": {
-                    "type": "linkList",
-                    "links": [
-                      {
-                        "linkKey": "profileSettings",
-                        "type": "dialog",
-                        "value": "manageProfiles"
-                      },
-                      {
-                        "linkKey": "communicationSettings",
-                        "type": "dialog",
-                        "value": "changeNotifications"
-                      },
-                      {
-                        "linkKey": "languageSettings",
-                        "type": "dialog",
-                        "value": "changeLanguage"
-                      }
-                    ]
-                  }
-                },
-                {
-                  "itemKey": "supportReferences",
-                  "config": {
-                    "type": "linkList",
-                    "links": [
-                      {
-                        "linkKey": "supportLink",
-                        "type": "external",
-                        "value": "https://www.uhasselt.be/UH/Onze-fondsen/56179-Onze-fondsen/Fonds-infectieradar"
                       }
                     ]
                   }
@@ -221,13 +167,6 @@
                   "config": {
                     "type": "accountSettings",
                     "allowProfileSettings": true
-                  }
-                },
-                {
-                  "itemKey": "communication",
-                  "config": {
-                    "type": "communicationSettings",
-                    "hideLanguageSelector": false
                   }
                 },
                 {

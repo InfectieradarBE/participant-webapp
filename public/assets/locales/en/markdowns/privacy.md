@@ -15,21 +15,26 @@ It is important for you to read and understand everything. Before you agree to p
 
 
 **Before proceeding, we want to assure you that the data collected will not be used to track work performance. There are no consequences associated with the information you provide, nor with your decision to participate or not; participation is entirely voluntary.**
+<br></br>
 
 
 **Why do we conduct the study?**
+
 Human interactions are strongly associated with the spread of viral respiratory infections, making the study of social contact patterns crucial for effective public health interventions. In this study, we aim to characterize transmission routes of respiratory diseases in a university setting, by mapping social interactions occurring at the Data Science Institute (DSI), Hasselt University, Belgium. Over a two-week period, we will collect data using close-proximity sensors and a contact diary to quantify contact interactions that occur during a working day among DSI and non-DSI members during meetings, teaching activities and other university events . These data will be used to construct time-resolved contact networks describing contact interactions in a university setting, and develop contact-based epidemiological models for the spread of respiratory infections. Simulation studies will further be conducted to evaluate the influence of changes in contact patterns, e.g., teleworking, on spreading dynamics
 
 
 **Who can take part?**
+
 All members of the Data Science Institute (DSI) are eligible to participate in the study.
 
 
 **How does the study work?**
+
 Upon enrolment, each participant will be asked to fill out an intake questionnaire (“Enrollment Questionnaire”) to provide basic information. Each participant will then be given a wearable proximity sensor to wear each day from the time they enter the university until they leave. Upon leaving, the sensor will be removed and placed in the personal drawer, or in another safe place. Additionally, participants will need to complete a “Study Diary” at the end of each day, recording any social contacts made with DSI members that may not have been captured by the sensor (i.e., when the sensor was not yet worn, or had been removed) or made with non-DSI members, and any in-person meeting, teaching activities or other academic events.
 
 
 **Data**
+
 During the enrollment basic demographic information (i.e., age, sex, nationality), sensor identification number and professional role within DSI will be asked. Through a diary-based survey and close-proximity sensors, data on social interactions, including in-person meetings, teaching activities and other academic events,  will be collected throughout the study days. 
 
 The data obtained in this study will be processed by the research team solely for the purposes of the study, and data analysis will be conducted using pseudonymized data. Participants may withdraw from the study at any time without providing a reason. Under no circumstances will the data collected be used to evaluate participants' professional performance or to assess personal breaks or needs.The data will be processed in accordance with the applicable laws and regulations and with full respect for your rights and in particular your privacy.

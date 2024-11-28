@@ -28,6 +28,24 @@
                   }
                 }
               ]
+            },
+            {
+              "key": "logoCardCol",
+              "className": "col-12 col-lg-4 mt-3 ml-4",
+              "items": [
+                {
+                  "itemKey": "logoCard",
+                  "className": "h-100",
+                  "config": {
+                    "type": "imageCard",
+                    "showActionBtn": false,
+                    "imageSrc": "/images/dsi_logo.png",
+                    "imageAlt": "DSI logo",
+                    "title": "DSI Sensor Contact Study",
+                    "body": "Welcome to the DSI Sensor Contact Study"
+                  }
+                }
+              ]
             }
           ]
         }

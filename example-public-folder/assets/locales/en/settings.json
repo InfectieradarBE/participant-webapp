@@ -9,13 +9,6 @@
     "password": {
       "title": "Password",
       "info": "Do you want to change the password? Change your password by clicking on the button below. Note: you will need your current password."
-    },
-    "profiles": {
-      "title": "Profiles",
-      "info": "Edit your own profile or, as a parent or legal representative, add the profile of your child aged up to 17 years.",
-      "btn": "{{count}} profile",
-      "btn_plural": "{{count}} profiles",
-      "btn_other": "{{count}} profiles"
     }
   },
   "communication": {

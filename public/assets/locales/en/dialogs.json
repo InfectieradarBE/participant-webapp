@@ -31,7 +31,7 @@
   },
   "signup": {
     "title": "Sign up",
-    "info": "Sign up and help keep an eye on infectious diseases.",
+    "info": "Sign up and help us understand the spread of respiratory diseases.",
     "emailInputLabel": "Email",
     "emailInputPlaceholder": "Enter Email",
     "passwordInputLabel": "Password",
@@ -64,7 +64,7 @@
   },
   "signupSuccess": {
     "title": "Welcome!",
-    "successMsg": "You are almost signed up for Infectieradar.be! \n\n First confirm your email address by clicking on the link in the confirmation email that we have sent you \n If you can’t find the email, first check your spam folder. You can also request a new email below.",
+    "successMsg": "You are almost signed up for the DSI sensor contact study! \n\n First confirm your email address by clicking on the link in the confirmation email that we have sent you \n If you can’t find the email, first check your spam folder. You can also request a new email below.",
     "emailSentMsg": "E-mail has been send",
     "msgForVerifiedAccount": "If you have just verified your account, you can use the button below to reload this page.",
     "reloadUser": "Check verification",
@@ -93,7 +93,7 @@
     "emailInputPlaceholder": "New email address",
     "passwordInputLabel": "Password",
     "passwordInputPlaceholder": "Password",
-    "info": "Do you want to use a different email address? Change your email address by clicking on the button below. Note: you cannot log back in to Infectieradar.be until you have confirmed the email address.",
+    "info": "Do you want to use a different email address? Change your email address by clicking on the button below. Note: you cannot log back in to the DSI Sensor Contact study on Infectieradar.be until you have confirmed the email address.",
     "cancelBtn": "Cancel",
     "confirmBtn": "Change email address",
     "errors": {
@@ -103,7 +103,7 @@
     },
     "warningDialog": {
       "title": "Confirm new email address",
-      "content": "Note: you cannot log back in to Infectieradar.be until you have confirmed the new email address via the link in the confirmation email that we have sent you.",
+      "content": "Note: you cannot log back in to the DSI Sensor Contact study on Infectieradar.be until you have confirmed the new email address via the link in the confirmation email that we have sent you.",
       "cancelBtn": "Cancel",
       "confirmBtn": "Confirm"
     },

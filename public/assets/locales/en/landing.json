@@ -1,5 +1,5 @@
 {
-  "title": "Sensor - Infectieradar",
+  "title": "DSI Sensor Contact Study",
   "topImage": {
     "title": "Test teaser image",
     "content": "Citizen Science for Infectious Disease Surveillance"
@@ -33,6 +33,11 @@
     "title": "About Infectieradar",
     "body": "With Infectieradar.be, we monitor the spread of  symptoms across Belgium. It is one of the tools the research team uses to monitor the spread of the virus.",
     "actionLabel": "Learn more"
+  },
+  "logoCard": {
+    "imageAlt": "DSI Logo",
+    "title": "Welcome to the DSI Sensor Contact Study!",
+    "body": "Please login or sign up to participate and help us understand how respiratory diseases spread."
   },
   "video": {
     "poster": "",

@@ -23,5 +23,24 @@
     "title": "Info",
     "content": "Your questionnaire has been submitted successfully.",
     "btn": "Continue"
+  },
+  "submitSuccessWithLoginOptionsDialog": {
+    "title": "Info",
+    "successMsg": "Your responses have been successfully submitted.",
+    "info": "Do you want to help us understand how respiratory diseases spread? Consider creating an account!",
+    "loginBtn": "Login",
+    "registerBtn": "Sign up",
+    "withoutAccountBtn": "Continue without an account"
+  },
+  "tempParticipantConversionSuccessDialog": {
+    "title": "Info",
+    "content": "Your responses have been successfully submitted.",
+    "btn": "Ok"
+  },
+  "loginRequiredDialog": {
+    "title": "Log in",
+    "info": "You must log in to submit the questionnaire.",
+    "loginBtn": "Log in",
+    "registerBtn": "Sign up"
   }
 }

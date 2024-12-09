@@ -1,11 +1,11 @@
-`Diese Seite wurde zum letzten Mal angepasst am 02.Dec.2024 16:00.`
+`Diese Seite wurde zum letzten Mal angepasst am 09.Dec.2024 13:00.`
 
 Mit den Daten, die wir jede Woche von unseren Teilnehmern erhalten, können wir die Verbreitung von Grippe, COVID-19, anderen Infektionen und Gesundheitsbeschwerden kartieren.
 Wir danken den Teilnehmern für ihre wöchentlichen Beiträge. Gemeinsam können wir die Situation in Belgien schnell und frühzeitig erfassen.
 
 ## Symptome und gesundheitliche Beschwerden
 Unsere Teilnehmer berichten jede Woche, ob sie eines oder mehrere Symptome hatten.
-In der vergangenen Woche erhielten wir 792 ausgefüllte Fragebögen. In 82.3 % der ausgefüllten Fragebögen wurden keine Symptome angegeben.
+In der vergangenen Woche erhielten wir 772 ausgefüllte Fragebögen. In 82.9 % der ausgefüllten Fragebögen wurden keine Symptome angegeben.
 Diese Grafik zeigt den Prozentsatz der Teilnehmer, die ein bestimmtes Symptom melden. Eine Kombination aus Symptomen kann auf eine bestimmte Infektionskrankheit wie Grippe, Corona, RSV oder andere Erkrankungen hinweisen.
 
 <img src="assets/images/symptoms_DE.png" width="100%">

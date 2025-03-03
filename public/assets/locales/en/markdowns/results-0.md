@@ -1,11 +1,11 @@
-`This page has been last updated at 24.Feb.2025 15:00.`
+`This page has been last updated at 03.Mar.2025 14:00.`
 
 With the data that we receive from our participants every week, we can map the spread of flu, COVID-19, other infections and health complaints.
 We thank the participants for their weekly contributions. Together we can map out the situation in Belgium quickly and at an early stage.
 
 ## Symptoms and health complaints
 Our participants report every week whether they had one or more symptoms.
-In the past week we received 760 completed questionnaires. No symptoms were reported in 78.6% of the completed questionnaires.
+In the past week we received 774 completed questionnaires. No symptoms were reported in 83.5% of the completed questionnaires.
 This graph shows the percentage of participants reporting a specific symptom. A combination of symptoms may indicate a specific infectious disease such as flu, COVID-19, RSV, or others.
 
 <img src="assets/images/symptoms_EN.png" width="100%">

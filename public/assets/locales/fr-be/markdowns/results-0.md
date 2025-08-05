@@ -1,11 +1,11 @@
-`Dernière modification de cette page le 22.Jul.2025 22:00.`
+`Dernière modification de cette page le 05.Aoû.2025 09:30.`
 
 Les données que nous obtenons chaque semaine grâce à nos participants nous permettent de recenser la propagation de la grippe, du coronavirus, ainsi que d'autres infections et problèmes de santé. 
 Nous remercions les participants pour leurs contributions hebdomadaires. Ensemble, nous pouvons ainsi suivre l’évolution de la situation en Belgique, et ce, rapidement et à un stade précoce. 
 
 ## Symptômes et problèmes de santé
 Chaque semaine, nos participants indiquent s'ils ont ressenti un ou plusieurs symptôme(s).
-La semaine dernière, nous avons reçu 701 questionnaires complétés. Dans 90.9% des questionnaires complétés, aucun symptôme n'a été signalé. 
+La semaine dernière, nous avons reçu 678 questionnaires complétés. Dans 90.9% des questionnaires complétés, aucun symptôme n'a été signalé. 
 Ce graphique indique le pourcentage de participants ayant signalé un symptôme particulier. Une combinaison de symptômes peut indiquer une maladie infectieuse spécifique telle que la grippe, le coronavirus, le VRS, etc. 
 
 <img src="assets/images/symptoms_FR.png" width="100%">

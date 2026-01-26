@@ -1,11 +1,11 @@
-`Dernière modification de cette page le 19.Jav.2026 13:00.`
+`Dernière modification de cette page le 26.Jav.2026 12:00.`
 
 Les données que nous obtenons chaque semaine grâce à nos participants nous permettent de recenser la propagation de la grippe, du coronavirus, ainsi que d'autres infections et problèmes de santé. 
 Nous remercions les participants pour leurs contributions hebdomadaires. Ensemble, nous pouvons ainsi suivre l’évolution de la situation en Belgique, et ce, rapidement et à un stade précoce. 
 
 ## Symptômes et problèmes de santé
 Chaque semaine, nos participants indiquent s'ils ont ressenti un ou plusieurs symptôme(s).
-La semaine dernière, nous avons reçu 726 qestionnaires complétés. Dans 80.6% des questionnaires complétés, aucun symptôme n'a été signalé. 
+La semaine dernière, nous avons reçu 722 qestionnaires complétés. Dans 80.5% des questionnaires complétés, aucun symptôme n'a été signalé. 
 Ce graphique indique le pourcentage de participants ayant signalé un symptôme particulier. Une combinaison de symptômes peut indiquer une maladie infectieuse spécifique telle que la grippe, le coronavirus, le VRS, etc. 
 
 <img src="assets/images/symptoms_FR.png" width="100%">
@@ -21,7 +21,7 @@ Ce graphique montre le nombre de participants pour 1.000 personnes présentant d
 <img src="assets/images/covid19_FR.png" width="100%">
 
 ## Nos participants
-Ces graphiques indiquent l'âge, le sexe et le lieu de résidence de nos participants. Nous avons 2409 participants, dont 40.1% d'hommes et 59.7% de femmes. Le graphique illustre le nombre de participants pour 1.000 habitants par province. Une couleur plus foncée indique une plus grande participation des habitants de cette province. 
+Ces graphiques indiquent l'âge, le sexe et le lieu de résidence de nos participants. Nous avons 2414 participants, dont 40.0% d'hommes et 59.8% de femmes. Le graphique illustre le nombre de participants pour 1.000 habitants par province. Une couleur plus foncée indique une plus grande participation des habitants de cette province. 
 Vous ne figurez pas encore parmi les participants ? Dans ce cas, inscrivez-vous, et contribuez à la surveillance des maladies infectieuses.
 
 <img src="assets/images/ParticipationMap.png" width="100%">
